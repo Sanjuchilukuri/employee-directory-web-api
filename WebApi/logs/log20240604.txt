@@ -1,0 +1,149 @@
+2024-06-04 16:03:29.107 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 867.4066 ms
+2024-06-04 16:09:40.460 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 2.1909 ms
+2024-06-04 16:31:46.020 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 3.4936 ms
+2024-06-04 16:33:19.866 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 0.1611 ms
+2024-06-04 16:34:03.166 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 0.0881 ms
+2024-06-04 16:39:03.316 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 0.2385 ms
+2024-06-04 16:39:53.185 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 20.8863 ms
+2024-06-04 16:44:07.485 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 1.4975 ms
+2024-06-04 16:45:58.349 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 3.6442 ms
+2024-06-04 16:46:19.053 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 0.3889 ms
+2024-06-04 16:48:56.952 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 0.1357 ms
+2024-06-04 16:50:20.999 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 0.1475 ms
+2024-06-04 16:54:07.399 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 0.1650 ms
+2024-06-04 16:55:14.188 +05:30 [INF] HTTP GET /Department responded 401 in 6.0964 ms
+2024-06-04 16:55:48.097 +05:30 [INF] HTTP OPTIONS /api/Auth/Login responded 404 in 0.8508 ms
+2024-06-04 16:55:56.674 +05:30 [INF] HTTP GET /api/Auth/Login responded 404 in 0.1324 ms
+2024-06-04 16:55:59.827 +05:30 [INF] HTTP GET /api/Auth/Login responded 404 in 1.3366 ms
+2024-06-04 16:56:03.233 +05:30 [INF] HTTP GET /Auth/Login responded 405 in 0.1175 ms
+2024-06-04 16:57:48.602 +05:30 [INF] HTTP GET /Department responded 401 in 1.6226 ms
+2024-06-04 16:57:57.630 +05:30 [INF] HTTP GET /Department responded 401 in 1.2387 ms
+2024-06-04 17:00:11.709 +05:30 [INF] HTTP OPTIONS /api/Auth/Login responded 404 in 0.2543 ms
+2024-06-04 17:00:41.109 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 415 in 114.3571 ms
+2024-06-04 17:01:52.301 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 0.1105 ms
+2024-06-04 17:02:01.700 +05:30 [INF] HTTP OPTIONS /Auth/Login responded 405 in 0.0674 ms
+2024-06-04 17:03:15.816 +05:30 [INF] HTTP GET /Auth/Login responded 405 in 0.3371 ms
+2024-06-04 17:03:40.908 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user)
+   at lambda_method18(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context)
+
+2024-06-04 17:04:01.453 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user)
+   at lambda_method18(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context)
+
+2024-06-04 17:04:03.044 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user)
+   at lambda_method18(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context)
+
+2024-06-04 17:04:22.421 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 699.8665 ms
+2024-06-04 17:09:55.483 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 383.0489 ms
+2024-06-04 17:10:20.777 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 8.6340 ms
+2024-06-04 17:10:38.637 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 10.5197 ms
+2024-06-04 17:11:18.292 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 2.3262 ms
+2024-06-04 17:11:31.142 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 1.1773 ms
+2024-06-04 17:12:28.232 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 4.1823 ms
+2024-06-04 17:13:18.707 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 1.2421 ms
+2024-06-04 17:15:12.731 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 2.7247 ms
+2024-06-04 17:18:19.626 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 1481.3037 ms
+2024-06-04 17:20:15.820 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 402.6937 ms
+2024-06-04 17:21:17.782 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 273.0718 ms
+2024-06-04 17:23:14.623 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 268.0377 ms
+2024-06-04 17:27:25.160 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 385.0003 ms
+2024-06-04 17:28:56.973 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 335.2943 ms
+2024-06-04 17:29:37.309 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 389.6651 ms
+2024-06-04 17:31:38.528 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 396.5047 ms
+2024-06-04 17:39:40.736 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 600.8787 ms
+2024-06-04 17:39:42.761 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 392.7787 ms
+2024-06-04 17:39:54.043 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 185.5726 ms
+2024-06-04 17:40:24.704 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 213.5395 ms
+2024-06-04 17:44:05.596 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 362.1745 ms
+2024-06-04 17:44:08.105 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 387.6645 ms
+2024-06-04 17:44:08.903 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 386.8180 ms
+2024-06-04 17:44:08.994 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 317.7704 ms
+2024-06-04 17:44:09.110 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 275.9953 ms
+2024-06-04 17:44:09.395 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 383.6036 ms
+2024-06-04 17:44:09.606 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 420.9061 ms
+2024-06-04 17:44:09.752 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 388.5312 ms
+2024-06-04 17:44:09.904 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 331.3377 ms
+2024-06-04 17:44:21.884 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 374.9381 ms
+2024-06-04 17:46:22.365 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 216.3446 ms
+2024-06-04 17:46:23.075 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 205.1208 ms
+2024-06-04 17:47:27.226 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 360.5061 ms
+2024-06-04 17:47:47.452 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 194.1172 ms
+2024-06-04 17:50:16.345 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\AuthController.cs:line 42
+   at lambda_method10(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-06-04 17:50:56.267 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 373.6994 ms
+2024-06-04 18:00:16.497 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 469.0301 ms
+2024-06-04 18:00:18.353 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 424.1331 ms
+2024-06-04 18:00:22.340 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 262.6902 ms
+2024-06-04 18:00:22.506 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 231.7653 ms
+2024-06-04 18:02:18.099 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 395.1163 ms
+2024-06-04 18:02:25.720 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 359.1826 ms
+2024-06-04 18:03:23.208 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 348.2848 ms
+2024-06-04 18:03:51.869 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 173.0193 ms
+2024-06-04 18:03:53.338 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 169.8582 ms
+2024-06-04 18:07:40.416 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 359.3100 ms
+2024-06-04 18:08:16.195 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 456.4697 ms
+2024-06-04 18:10:46.822 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 358.5325 ms
+2024-06-04 18:12:28.670 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 173.1459 ms
+2024-06-04 18:12:50.505 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 265.4140 ms
+2024-06-04 18:21:00.188 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 389.1369 ms
+2024-06-04 18:23:15.380 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 356.1808 ms
+2024-06-04 18:23:33.017 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 357.6268 ms
+2024-06-04 18:25:47.208 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 163.1858 ms
+2024-06-04 18:26:20.287 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 369.5184 ms
+2024-06-04 18:27:19.399 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 415.4941 ms

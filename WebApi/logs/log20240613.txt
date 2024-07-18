@@ -1,0 +1,524 @@
+2024-06-13 12:06:34.070 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\AuthController.cs:line 41
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-06-13 12:48:30.956 +05:30 [INF] HTTP POST / responded 404 in 108.4047 ms
+2024-06-13 12:49:25.408 +05:30 [INF] HTTP POST //Auth/Login responded 404 in 4.0888 ms
+2024-06-13 12:49:47.225 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 1935.3159 ms
+2024-06-13 12:52:18.916 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 518.5261 ms
+2024-06-13 12:55:30.019 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 417.6796 ms
+2024-06-13 12:55:33.894 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\AuthController.cs:line 41
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-06-13 12:56:06.464 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 96.7655 ms
+2024-06-13 13:02:00.647 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 1950.9346 ms
+2024-06-13 13:02:01.751 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 1022.2866 ms
+2024-06-13 13:02:05.313 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 325.4782 ms
+2024-06-13 13:10:32.286 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\AuthController.cs:line 41
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-06-13 13:10:45.314 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 47.9679 ms
+2024-06-13 13:10:46.433 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 3.2233 ms
+2024-06-13 13:10:46.863 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 1.3019 ms
+2024-06-13 13:10:47.052 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 2.2308 ms
+2024-06-13 13:10:47.242 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 2.2746 ms
+2024-06-13 13:10:47.414 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 2.1591 ms
+2024-06-13 13:10:47.588 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 1.2239 ms
+2024-06-13 13:10:47.778 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 2.4483 ms
+2024-06-13 13:10:47.998 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 2.9971 ms
+2024-06-13 13:10:49.380 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 2.0701 ms
+2024-06-13 13:13:29.483 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 1.4385 ms
+2024-06-13 13:13:30.058 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 1.4626 ms
+2024-06-13 13:17:15.906 +05:30 [INF] HTTP POST //Auth/register responded 404 in 0.3421 ms
+2024-06-13 14:58:03.872 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 427.9948 ms
+2024-06-13 14:58:54.492 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 370.4875 ms
+2024-06-13 15:01:32.587 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 376.0959 ms
+2024-06-13 15:01:48.508 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 365.9949 ms
+2024-06-13 15:20:17.282 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\AuthController.cs:line 41
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-06-13 15:20:27.583 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\AuthController.cs:line 41
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-06-13 15:24:04.622 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\AuthController.cs:line 41
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-06-13 15:24:54.606 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\AuthController.cs:line 41
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-06-13 15:25:07.300 +05:30 [INF] HTTP POST /Auth/Login responded 200 Error 
+System.Exception: Invalid details
+   at WebApi.Controllers.AuthController.Login(LoginModel user) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\AuthController.cs:line 41
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-06-13 15:25:40.518 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 394.9126 ms
+2024-06-13 15:29:41.989 +05:30 [INF] HTTP POST //Auth/register responded 404 in 0.2984 ms
+2024-06-13 15:29:55.020 +05:30 [INF] HTTP GET //Auth/register responded 404 in 0.1355 ms
+2024-06-13 15:30:32.276 +05:30 [INF] HTTP POST //Auth/register responded 404 in 0.1147 ms
+2024-06-13 15:31:07.030 +05:30 [INF] HTTP POST /Auth/register responded 201 in 710.4331 ms
+2024-06-13 15:40:06.606 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 141.1533 ms
+2024-06-13 15:40:08.220 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 134.7492 ms
+2024-06-13 15:40:11.403 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 160.7220 ms
+2024-06-13 15:40:12.907 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 177.7237 ms
+2024-06-13 15:40:13.508 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 156.5510 ms
+2024-06-13 15:40:13.669 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 134.9307 ms
+2024-06-13 15:40:13.865 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 138.5001 ms
+2024-06-13 15:40:14.074 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 158.1937 ms
+2024-06-13 15:40:14.227 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 136.5052 ms
+2024-06-13 15:40:14.423 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 143.1721 ms
+2024-06-13 15:40:14.599 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 136.5611 ms
+2024-06-13 15:40:14.783 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 134.6099 ms
+2024-06-13 15:40:15.003 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 144.8755 ms
+2024-06-13 15:40:50.448 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 133.3036 ms
+2024-06-13 16:01:54.179 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 141.6407 ms
+2024-06-13 16:01:56.614 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 144.3247 ms
+2024-06-13 16:02:02.153 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 141.6356 ms
+2024-06-13 16:02:07.653 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 139.1203 ms
+2024-06-13 16:02:13.862 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 134.0708 ms
+2024-06-13 16:02:16.249 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 140.1815 ms
+2024-06-13 16:02:56.115 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 136.1062 ms
+2024-06-13 16:03:39.886 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 135.9804 ms
+2024-06-13 16:37:52.635 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 165.5501 ms
+2024-06-13 17:11:31.823 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 382.1677 ms
+2024-06-13 19:20:22.941 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 404.5754 ms
+2024-06-13 19:20:40.345 +05:30 [INF] HTTP GET /Location responded 200 in 211.2117 ms
+2024-06-13 19:31:59.704 +05:30 [INF] HTTP GET /Location responded 401 in 23.2290 ms
+2024-06-13 19:32:07.551 +05:30 [INF] HTTP GET /Location responded 401 in 9.9440 ms
+2024-06-13 19:32:09.638 +05:30 [INF] HTTP GET /Location responded 401 in 0.1526 ms
+2024-06-13 19:32:12.641 +05:30 [INF] HTTP GET /Location responded 401 in 0.6414 ms
+2024-06-13 19:32:41.482 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 393.8326 ms
+2024-06-13 19:32:41.591 +05:30 [INF] HTTP GET /Location responded 401 in 0.3516 ms
+2024-06-13 19:32:50.755 +05:30 [INF] HTTP GET /Location responded 401 in 0.2611 ms
+2024-06-13 19:34:17.715 +05:30 [INF] HTTP GET /Location responded 401 in 0.7340 ms
+2024-06-13 19:35:02.154 +05:30 [INF] HTTP GET /Location responded 200 in 41.1520 ms
+2024-06-13 19:35:05.204 +05:30 [INF] HTTP GET /Location responded 200 in 10.7983 ms
+2024-06-13 19:36:34.626 +05:30 [INF] HTTP GET /Location responded 200 in 26.7197 ms
+2024-06-13 19:36:44.763 +05:30 [INF] HTTP GET /Location responded 200 in 5.7252 ms
+2024-06-13 19:39:36.662 +05:30 [INF] HTTP GET /Location responded 200 in 27.7952 ms
+2024-06-13 19:39:39.444 +05:30 [INF] HTTP GET /Location responded 200 in 21.3031 ms
+2024-06-13 19:40:19.554 +05:30 [INF] HTTP GET /Location responded 200 in 13.9413 ms
+2024-06-13 19:40:20.769 +05:30 [INF] HTTP GET /Location responded 200 in 5.7418 ms
+2024-06-13 19:40:21.897 +05:30 [INF] HTTP GET /Location responded 200 in 8.4506 ms
+2024-06-13 19:40:23.644 +05:30 [INF] HTTP GET /Location responded 200 in 4.0692 ms
+2024-06-13 19:40:24.650 +05:30 [INF] HTTP GET /Location responded 200 in 5.2138 ms
+2024-06-13 19:40:25.529 +05:30 [INF] HTTP GET /Location responded 200 in 7.0639 ms
+2024-06-13 19:41:12.078 +05:30 [INF] HTTP GET /Location responded 200 in 25.9558 ms
+2024-06-13 19:41:17.956 +05:30 [INF] HTTP GET /Location responded 200 in 5.7340 ms
+2024-06-13 19:41:19.980 +05:30 [INF] HTTP GET /Location responded 200 in 4.6933 ms
+2024-06-13 19:41:21.266 +05:30 [INF] HTTP GET /Location responded 200 in 7.7541 ms
+2024-06-13 19:41:22.370 +05:30 [INF] HTTP GET /Location responded 200 in 6.3246 ms
+2024-06-13 19:42:37.338 +05:30 [INF] HTTP GET /Location responded 200 in 26.1679 ms
+2024-06-13 19:43:01.677 +05:30 [INF] HTTP GET /Location responded 200 in 11.4679 ms
+2024-06-13 19:43:45.824 +05:30 [INF] HTTP GET /Location responded 200 in 11.0071 ms
+2024-06-13 19:43:48.372 +05:30 [INF] HTTP GET /Location responded 200 in 5.8847 ms
+2024-06-13 19:43:59.549 +05:30 [INF] HTTP GET /Location responded 200 in 4.0823 ms
+2024-06-13 19:44:10.511 +05:30 [INF] HTTP GET /Location responded 200 in 9.5147 ms
+2024-06-13 19:44:34.487 +05:30 [INF] HTTP GET /Location responded 200 in 5.8179 ms
+2024-06-13 19:44:37.526 +05:30 [INF] HTTP GET /Location responded 200 in 4.5609 ms
+2024-06-13 19:44:51.760 +05:30 [INF] HTTP GET /Location responded 200 in 8.5810 ms
+2024-06-13 19:46:05.865 +05:30 [INF] HTTP GET /Manager responded 200 in 26.7697 ms
+2024-06-13 19:46:13.347 +05:30 [INF] HTTP GET /Project responded 200 in 17.5827 ms
+2024-06-13 19:46:44.914 +05:30 [INF] HTTP GET /Department responded 200 in 35.2317 ms
+2024-06-13 19:47:45.296 +05:30 [INF] HTTP GET /Location responded 200 in 10.5114 ms
+2024-06-13 19:47:47.420 +05:30 [INF] HTTP GET /Location responded 200 in 4.4353 ms
+2024-06-13 19:48:01.380 +05:30 [INF] HTTP GET /Location responded 200 in 4.5709 ms
+2024-06-13 19:48:15.043 +05:30 [INF] HTTP GET /Location responded 200 in 2.7893 ms
+2024-06-13 19:48:19.623 +05:30 [INF] HTTP GET /Location responded 200 in 3.4267 ms
+2024-06-13 19:48:36.869 +05:30 [INF] HTTP GET /Location responded 200 in 14.0857 ms
+2024-06-13 19:48:47.616 +05:30 [INF] HTTP GET /Location responded 200 in 3.5040 ms
+2024-06-13 19:48:48.603 +05:30 [INF] HTTP GET /Location responded 200 in 2.6134 ms
+2024-06-13 19:48:51.469 +05:30 [INF] HTTP GET /Location responded 200 in 2.5425 ms
+2024-06-13 19:48:55.560 +05:30 [INF] HTTP GET /Location responded 200 in 3.5128 ms
+2024-06-13 19:49:04.633 +05:30 [INF] HTTP GET /Location responded 200 in 4.5680 ms
+2024-06-13 19:49:13.298 +05:30 [INF] HTTP GET /Location responded 200 in 4.7399 ms
+2024-06-13 19:49:14.796 +05:30 [INF] HTTP GET /Location responded 200 in 8.9057 ms
+2024-06-13 19:49:15.555 +05:30 [INF] HTTP GET /Location responded 200 in 5.0387 ms
+2024-06-13 19:49:16.835 +05:30 [INF] HTTP GET /Location responded 200 in 9.3584 ms
+2024-06-13 19:49:16.852 +05:30 [INF] HTTP GET /Department responded 200 in 21.5706 ms
+2024-06-13 19:49:23.253 +05:30 [INF] HTTP GET /Location responded 200 in 5.4090 ms
+2024-06-13 19:49:23.274 +05:30 [INF] HTTP GET /Department responded 200 in 9.8907 ms
+2024-06-13 19:49:25.813 +05:30 [INF] HTTP GET /Location responded 200 in 4.7573 ms
+2024-06-13 19:49:25.821 +05:30 [INF] HTTP GET /Department responded 200 in 4.5727 ms
+2024-06-13 19:49:27.638 +05:30 [INF] HTTP GET /Location responded 200 in 8.8179 ms
+2024-06-13 19:49:27.653 +05:30 [INF] HTTP GET /Department responded 200 in 5.6709 ms
+2024-06-13 19:49:40.877 +05:30 [INF] HTTP GET /Location responded 200 in 17.9022 ms
+2024-06-13 19:49:40.887 +05:30 [INF] HTTP GET /Department responded 200 in 17.5902 ms
+2024-06-13 19:49:48.247 +05:30 [INF] HTTP GET /Location responded 200 in 4.5768 ms
+2024-06-13 19:49:48.251 +05:30 [INF] HTTP GET /Department responded 200 in 3.4461 ms
+2024-06-13 19:49:55.237 +05:30 [INF] HTTP GET /Location responded 200 in 3.3355 ms
+2024-06-13 19:49:55.254 +05:30 [INF] HTTP GET /Department responded 200 in 3.7912 ms
+2024-06-13 19:50:02.097 +05:30 [INF] HTTP GET /Department responded 200 in 2.6943 ms
+2024-06-13 19:50:02.097 +05:30 [INF] HTTP GET /Location responded 200 in 2.7728 ms
+2024-06-13 19:50:11.536 +05:30 [INF] HTTP GET /Location responded 200 in 4.8302 ms
+2024-06-13 19:50:11.542 +05:30 [INF] HTTP GET /Department responded 200 in 2.9058 ms
+2024-06-13 19:50:14.596 +05:30 [INF] HTTP GET /Location responded 200 in 3.1834 ms
+2024-06-13 19:50:14.602 +05:30 [INF] HTTP GET /Department responded 200 in 4.0836 ms
+2024-06-13 19:50:16.890 +05:30 [INF] HTTP GET /Location responded 200 in 3.0330 ms
+2024-06-13 19:50:16.894 +05:30 [INF] HTTP GET /Department responded 200 in 2.5349 ms
+2024-06-13 19:50:20.343 +05:30 [INF] HTTP GET /Location responded 200 in 3.1078 ms
+2024-06-13 19:50:20.346 +05:30 [INF] HTTP GET /Department responded 200 in 2.9787 ms
+2024-06-13 19:50:24.595 +05:30 [INF] HTTP GET /Location responded 200 in 3.9753 ms
+2024-06-13 19:50:24.610 +05:30 [INF] HTTP GET /Department responded 200 in 2.7183 ms
+2024-06-13 19:50:28.684 +05:30 [INF] HTTP GET /Location responded 200 in 3.3439 ms
+2024-06-13 19:50:28.689 +05:30 [INF] HTTP GET /Department responded 200 in 4.1563 ms
+2024-06-13 19:50:35.897 +05:30 [INF] HTTP GET /Location responded 200 in 3.6144 ms
+2024-06-13 19:50:35.904 +05:30 [INF] HTTP GET /Department responded 200 in 5.7214 ms
+2024-06-13 19:51:34.610 +05:30 [INF] HTTP GET /Department responded 200 in 6.8751 ms
+2024-06-13 19:51:34.610 +05:30 [INF] HTTP GET /Location responded 200 in 14.2861 ms
+2024-06-13 19:51:36.530 +05:30 [INF] HTTP GET /Location responded 200 in 3.5535 ms
+2024-06-13 19:51:36.533 +05:30 [INF] HTTP GET /Department responded 200 in 2.9284 ms
+2024-06-13 19:51:42.991 +05:30 [INF] HTTP GET /Location responded 200 in 4.5812 ms
+2024-06-13 19:51:42.997 +05:30 [INF] HTTP GET /Department responded 200 in 2.4178 ms
+2024-06-13 19:51:44.667 +05:30 [INF] HTTP GET /Location responded 200 in 5.7233 ms
+2024-06-13 19:51:44.672 +05:30 [INF] HTTP GET /Department responded 200 in 3.1729 ms
+2024-06-13 19:51:45.520 +05:30 [INF] HTTP GET /Location responded 200 in 2.4714 ms
+2024-06-13 19:51:45.522 +05:30 [INF] HTTP GET /Department responded 200 in 2.4494 ms
+2024-06-13 19:51:47.588 +05:30 [INF] HTTP GET /Department responded 200 in 7.1136 ms
+2024-06-13 19:51:47.604 +05:30 [INF] HTTP GET /Location responded 200 in 25.6140 ms
+2024-06-13 19:51:50.368 +05:30 [INF] HTTP GET /Location responded 200 in 46.8776 ms
+2024-06-13 19:51:50.368 +05:30 [INF] HTTP GET /Department responded 200 in 38.4039 ms
+2024-06-13 19:53:24.631 +05:30 [INF] HTTP GET /Department responded 200 in 9.0404 ms
+2024-06-13 19:53:24.631 +05:30 [INF] HTTP GET /Location responded 200 in 16.2428 ms
+2024-06-13 20:04:29.184 +05:30 [INF] HTTP GET /Location responded 200 in 26.1792 ms
+2024-06-13 20:04:29.184 +05:30 [INF] HTTP GET /Department responded 200 in 28.1160 ms
+2024-06-13 20:07:04.642 +05:30 [INF] HTTP GET /Location responded 200 in 19.3158 ms
+2024-06-13 20:07:04.642 +05:30 [INF] HTTP GET /Department responded 200 in 19.3157 ms
+2024-06-13 20:07:10.735 +05:30 [INF] HTTP GET /Department responded 200 in 6.4805 ms
+2024-06-13 20:07:10.735 +05:30 [INF] HTTP GET /Location responded 200 in 12.5772 ms
+2024-06-13 20:07:46.775 +05:30 [INF] HTTP GET /Department responded 200 in 10.5908 ms
+2024-06-13 20:07:46.775 +05:30 [INF] HTTP GET /Location responded 200 in 15.2605 ms
+2024-06-13 20:08:04.538 +05:30 [INF] HTTP GET /Location responded 200 in 4.2928 ms
+2024-06-13 20:08:04.542 +05:30 [INF] HTTP GET /Department responded 200 in 2.7900 ms
+2024-06-13 20:09:29.033 +05:30 [INF] HTTP GET /Location responded 200 in 15.0695 ms
+2024-06-13 20:09:29.034 +05:30 [INF] HTTP GET /Department responded 200 in 4.7448 ms
+2024-06-13 20:09:45.575 +05:30 [INF] HTTP GET /Location responded 200 in 4.2787 ms
+2024-06-13 20:09:45.578 +05:30 [INF] HTTP GET /Department responded 200 in 3.4937 ms
+2024-06-13 20:09:58.396 +05:30 [INF] HTTP GET /Location responded 200 in 3.0543 ms
+2024-06-13 20:09:58.474 +05:30 [INF] HTTP GET /Department responded 200 in 3.3696 ms
+2024-06-13 20:10:12.303 +05:30 [INF] HTTP GET /Location responded 200 in 4.9856 ms
+2024-06-13 20:10:12.314 +05:30 [INF] HTTP GET /Department responded 200 in 2.5724 ms
+2024-06-13 20:11:34.070 +05:30 [INF] HTTP GET /Department responded 200 in 9.4022 ms
+2024-06-13 20:11:34.070 +05:30 [INF] HTTP GET /Location responded 200 in 17.5678 ms
+2024-06-13 20:12:01.228 +05:30 [INF] HTTP GET /Location responded 200 in 9.1585 ms
+2024-06-13 20:12:01.228 +05:30 [INF] HTTP GET /Department responded 200 in 11.9650 ms
+2024-06-13 20:12:13.706 +05:30 [INF] HTTP GET /Location responded 200 in 4.2495 ms
+2024-06-13 20:12:13.711 +05:30 [INF] HTTP GET /Department responded 200 in 2.4110 ms
+2024-06-13 20:12:19.141 +05:30 [INF] HTTP GET /Location responded 200 in 3.0354 ms
+2024-06-13 20:12:19.141 +05:30 [INF] HTTP GET /Department responded 200 in 3.0354 ms
+2024-06-13 20:12:20.746 +05:30 [INF] HTTP GET /Location responded 200 in 4.3627 ms
+2024-06-13 20:12:20.807 +05:30 [INF] HTTP GET /Department responded 200 in 14.5436 ms
+2024-06-13 20:12:23.438 +05:30 [INF] HTTP GET /Location responded 200 in 9.0939 ms
+2024-06-13 20:12:23.440 +05:30 [INF] HTTP GET /Department responded 200 in 8.5110 ms
+2024-06-13 20:12:25.058 +05:30 [INF] HTTP GET /Location responded 200 in 5.5885 ms
+2024-06-13 20:12:25.092 +05:30 [INF] HTTP GET /Department responded 200 in 7.7144 ms
+2024-06-13 20:12:30.008 +05:30 [INF] HTTP GET /Location responded 200 in 6.8479 ms
+2024-06-13 20:12:30.011 +05:30 [INF] HTTP GET /Department responded 200 in 4.5482 ms
+2024-06-13 20:12:31.575 +05:30 [INF] HTTP GET /Location responded 200 in 4.4044 ms
+2024-06-13 20:12:31.581 +05:30 [INF] HTTP GET /Department responded 200 in 5.9108 ms
+2024-06-13 20:12:32.247 +05:30 [INF] HTTP GET /Location responded 200 in 3.4256 ms
+2024-06-13 20:12:32.251 +05:30 [INF] HTTP GET /Department responded 200 in 4.3884 ms
+2024-06-13 20:12:32.868 +05:30 [INF] HTTP GET /Location responded 200 in 4.0970 ms
+2024-06-13 20:12:32.871 +05:30 [INF] HTTP GET /Department responded 200 in 2.9556 ms
+2024-06-13 20:12:33.243 +05:30 [INF] HTTP GET /Location responded 200 in 3.3537 ms
+2024-06-13 20:12:33.247 +05:30 [INF] HTTP GET /Department responded 200 in 4.5886 ms
+2024-06-13 20:12:33.751 +05:30 [INF] HTTP GET /Location responded 200 in 3.5421 ms
+2024-06-13 20:12:33.755 +05:30 [INF] HTTP GET /Department responded 200 in 3.3480 ms
+2024-06-13 20:12:34.326 +05:30 [INF] HTTP GET /Location responded 200 in 4.2383 ms
+2024-06-13 20:12:34.336 +05:30 [INF] HTTP GET /Department responded 200 in 5.4523 ms
+2024-06-13 20:12:34.878 +05:30 [INF] HTTP GET /Location responded 200 in 3.6222 ms
+2024-06-13 20:12:34.886 +05:30 [INF] HTTP GET /Department responded 200 in 6.9370 ms
+2024-06-13 20:12:35.504 +05:30 [INF] HTTP GET /Location responded 200 in 3.4039 ms
+2024-06-13 20:12:35.507 +05:30 [INF] HTTP GET /Department responded 200 in 3.0134 ms
+2024-06-13 20:12:35.926 +05:30 [INF] HTTP GET /Location responded 200 in 3.2983 ms
+2024-06-13 20:12:35.929 +05:30 [INF] HTTP GET /Department responded 200 in 3.1125 ms
+2024-06-13 20:15:21.758 +05:30 [INF] HTTP GET /Department responded 200 in 12.9704 ms
+2024-06-13 20:15:21.758 +05:30 [INF] HTTP GET /Location responded 200 in 12.9705 ms
+2024-06-13 20:15:28.566 +05:30 [INF] HTTP GET /Location responded 200 in 3.2256 ms
+2024-06-13 20:15:28.574 +05:30 [INF] HTTP GET /Department responded 200 in 2.4586 ms
+2024-06-13 20:15:33.530 +05:30 [INF] HTTP GET /Location responded 200 in 4.5093 ms
+2024-06-13 20:15:33.531 +05:30 [INF] HTTP GET /Department responded 200 in 2.5077 ms
+2024-06-13 20:16:02.898 +05:30 [INF] HTTP GET /Department responded 200 in 13.3375 ms
+2024-06-13 20:16:02.898 +05:30 [INF] HTTP GET /Location responded 200 in 14.1525 ms
+2024-06-13 20:16:08.942 +05:30 [INF] HTTP GET /Location responded 200 in 3.0359 ms
+2024-06-13 20:16:08.962 +05:30 [INF] HTTP GET /Department responded 200 in 2.8571 ms
+2024-06-13 20:16:19.860 +05:30 [INF] HTTP GET /Location responded 200 in 2.0316 ms
+2024-06-13 20:16:19.864 +05:30 [INF] HTTP GET /Department responded 200 in 1.7072 ms
+2024-06-13 20:16:24.631 +05:30 [INF] HTTP GET /Location responded 200 in 2.5911 ms
+2024-06-13 20:16:24.634 +05:30 [INF] HTTP GET /Department responded 200 in 3.1342 ms
+2024-06-13 20:16:34.456 +05:30 [INF] HTTP GET /Location responded 200 in 3.6432 ms
+2024-06-13 20:16:34.457 +05:30 [INF] HTTP GET /Department responded 200 in 2.8121 ms
+2024-06-13 20:18:26.243 +05:30 [INF] HTTP GET /Department responded 200 in 21.0593 ms
+2024-06-13 20:18:26.243 +05:30 [INF] HTTP GET /Location responded 200 in 25.1446 ms
+2024-06-13 20:20:00.067 +05:30 [INF] HTTP GET /Department responded 200 in 53.2315 ms
+2024-06-13 20:20:00.068 +05:30 [INF] HTTP GET /Location responded 200 in 72.5130 ms
+2024-06-13 20:20:03.792 +05:30 [INF] HTTP GET /Location responded 200 in 4.7081 ms
+2024-06-13 20:20:03.799 +05:30 [INF] HTTP GET /Department responded 200 in 3.3485 ms
+2024-06-13 20:20:23.460 +05:30 [INF] HTTP GET /Department responded 200 in 18.8142 ms
+2024-06-13 20:20:23.460 +05:30 [INF] HTTP GET /Location responded 200 in 29.1591 ms
+2024-06-13 20:20:43.385 +05:30 [INF] HTTP GET /Department responded 200 in 11.8058 ms
+2024-06-13 20:20:43.385 +05:30 [INF] HTTP GET /Location responded 200 in 18.0703 ms
+2024-06-13 20:20:55.200 +05:30 [INF] HTTP GET /Location responded 200 in 3.4377 ms
+2024-06-13 20:20:55.205 +05:30 [INF] HTTP GET /Department responded 200 in 3.5655 ms
+2024-06-13 20:21:04.074 +05:30 [INF] HTTP GET /Location responded 200 in 2.9085 ms
+2024-06-13 20:21:04.077 +05:30 [INF] HTTP GET /Department responded 200 in 2.5292 ms
+2024-06-13 20:21:07.125 +05:30 [INF] HTTP GET /Location responded 200 in 5.0000 ms
+2024-06-13 20:21:07.131 +05:30 [INF] HTTP GET /Department responded 200 in 4.3977 ms
+2024-06-13 20:21:08.679 +05:30 [INF] HTTP GET /Location responded 200 in 3.1026 ms
+2024-06-13 20:21:08.685 +05:30 [INF] HTTP GET /Department responded 200 in 3.7988 ms
+2024-06-13 20:21:10.377 +05:30 [INF] HTTP GET /Location responded 200 in 2.0889 ms
+2024-06-13 20:21:10.387 +05:30 [INF] HTTP GET /Department responded 200 in 3.1357 ms
+2024-06-13 20:21:48.867 +05:30 [INF] HTTP GET /Location responded 200 in 27.5143 ms
+2024-06-13 20:21:48.867 +05:30 [INF] HTTP GET /Department responded 200 in 7.3037 ms
+2024-06-13 20:21:58.610 +05:30 [INF] HTTP GET /Location responded 200 in 3.7851 ms
+2024-06-13 20:21:58.617 +05:30 [INF] HTTP GET /Department responded 200 in 4.3837 ms
+2024-06-13 20:22:01.393 +05:30 [INF] HTTP GET /Location responded 200 in 5.6651 ms
+2024-06-13 20:22:01.408 +05:30 [INF] HTTP GET /Department responded 200 in 8.0850 ms
+2024-06-13 20:22:02.720 +05:30 [INF] HTTP GET /Location responded 200 in 3.4646 ms
+2024-06-13 20:22:02.725 +05:30 [INF] HTTP GET /Department responded 200 in 3.4568 ms
+2024-06-13 20:22:05.229 +05:30 [INF] HTTP GET /Location responded 200 in 6.8761 ms
+2024-06-13 20:22:05.262 +05:30 [INF] HTTP GET /Department responded 200 in 4.6692 ms
+2024-06-13 20:23:35.692 +05:30 [INF] HTTP GET /Department responded 200 in 13.4266 ms
+2024-06-13 20:23:35.693 +05:30 [INF] HTTP GET /Location responded 200 in 13.9794 ms
+2024-06-13 20:23:39.417 +05:30 [INF] HTTP GET /Department responded 200 in 7.9490 ms
+2024-06-13 20:23:39.417 +05:30 [INF] HTTP GET /Location responded 200 in 11.7165 ms
+2024-06-13 20:23:48.671 +05:30 [INF] HTTP GET /Department responded 200 in 29.8961 ms
+2024-06-13 20:23:48.673 +05:30 [INF] HTTP GET /Location responded 200 in 31.6229 ms
+2024-06-13 20:23:52.805 +05:30 [INF] HTTP GET /Location responded 200 in 2.6734 ms
+2024-06-13 20:23:52.810 +05:30 [INF] HTTP GET /Department responded 200 in 3.0630 ms
+2024-06-13 20:23:58.596 +05:30 [INF] HTTP GET /Location responded 200 in 2.7681 ms
+2024-06-13 20:23:58.598 +05:30 [INF] HTTP GET /Department responded 200 in 2.5204 ms
+2024-06-13 20:24:38.714 +05:30 [INF] HTTP GET /Location responded 200 in 2.7373 ms
+2024-06-13 20:24:38.715 +05:30 [INF] HTTP GET /Department responded 200 in 2.8339 ms
+2024-06-13 20:24:54.758 +05:30 [INF] HTTP GET /Department responded 200 in 24.1373 ms
+2024-06-13 20:24:54.758 +05:30 [INF] HTTP GET /Location responded 200 in 24.7101 ms
+2024-06-13 20:24:55.725 +05:30 [INF] HTTP GET /Location responded 200 in 3.3200 ms
+2024-06-13 20:24:55.737 +05:30 [INF] HTTP GET /Department responded 200 in 2.9259 ms
+2024-06-13 20:24:57.592 +05:30 [INF] HTTP GET /Location responded 200 in 7.0950 ms
+2024-06-13 20:24:57.592 +05:30 [INF] HTTP GET /Department responded 200 in 7.1652 ms
+2024-06-13 20:25:00.547 +05:30 [INF] HTTP GET /Location responded 200 in 2.2861 ms
+2024-06-13 20:25:00.549 +05:30 [INF] HTTP GET /Department responded 200 in 2.4387 ms
+2024-06-13 20:25:08.819 +05:30 [INF] HTTP GET /Location responded 200 in 2.6046 ms
+2024-06-13 20:25:08.821 +05:30 [INF] HTTP GET /Department responded 200 in 2.3395 ms
+2024-06-13 20:25:13.688 +05:30 [INF] HTTP GET /Location responded 200 in 8.8496 ms
+2024-06-13 20:25:13.689 +05:30 [INF] HTTP GET /Department responded 200 in 9.9323 ms
+2024-06-13 20:25:15.598 +05:30 [INF] HTTP GET /Location responded 200 in 3.1794 ms
+2024-06-13 20:25:15.600 +05:30 [INF] HTTP GET /Department responded 200 in 3.2488 ms
+2024-06-13 20:25:20.838 +05:30 [INF] HTTP GET /Department responded 200 in 2.7152 ms
+2024-06-13 20:25:20.846 +05:30 [INF] HTTP GET /Location responded 200 in 16.0797 ms
+2024-06-13 20:25:22.573 +05:30 [INF] HTTP GET /Location responded 200 in 2.2394 ms
+2024-06-13 20:25:22.574 +05:30 [INF] HTTP GET /Department responded 200 in 2.4066 ms
+2024-06-13 20:25:46.813 +05:30 [INF] HTTP GET /Location responded 200 in 3.3650 ms
+2024-06-13 20:25:46.820 +05:30 [INF] HTTP GET /Department responded 200 in 2.9533 ms
+2024-06-13 20:26:48.787 +05:30 [INF] HTTP GET /Location responded 200 in 19.7356 ms
+2024-06-13 20:26:48.789 +05:30 [INF] HTTP GET /Department responded 200 in 5.6650 ms
+2024-06-13 20:26:50.531 +05:30 [INF] HTTP GET /Location responded 200 in 5.2803 ms
+2024-06-13 20:26:50.540 +05:30 [INF] HTTP GET /Department responded 200 in 6.0984 ms
+2024-06-13 20:26:51.576 +05:30 [INF] HTTP GET /Location responded 200 in 3.1728 ms
+2024-06-13 20:26:51.579 +05:30 [INF] HTTP GET /Department responded 200 in 2.6824 ms
+2024-06-13 20:27:01.723 +05:30 [INF] HTTP GET /Location responded 200 in 8.0976 ms
+2024-06-13 20:27:01.736 +05:30 [INF] HTTP GET /Department responded 200 in 4.6671 ms
+2024-06-13 20:27:02.734 +05:30 [INF] HTTP GET /Location responded 200 in 3.5045 ms
+2024-06-13 20:27:02.738 +05:30 [INF] HTTP GET /Department responded 200 in 3.1508 ms
+2024-06-13 20:27:03.588 +05:30 [INF] HTTP GET /Location responded 200 in 3.3775 ms
+2024-06-13 20:27:03.590 +05:30 [INF] HTTP GET /Department responded 200 in 2.9148 ms
+2024-06-13 20:27:07.610 +05:30 [INF] HTTP GET /Location responded 200 in 3.0695 ms
+2024-06-13 20:27:07.613 +05:30 [INF] HTTP GET /Department responded 200 in 3.1075 ms
+2024-06-13 20:27:18.975 +05:30 [INF] HTTP GET /Department responded 200 in 4.1446 ms
+2024-06-13 20:27:18.975 +05:30 [INF] HTTP GET /Location responded 200 in 4.0454 ms
+2024-06-13 20:27:20.770 +05:30 [INF] HTTP GET /Location responded 200 in 3.8789 ms
+2024-06-13 20:27:20.772 +05:30 [INF] HTTP GET /Department responded 200 in 3.7873 ms
+2024-06-13 20:27:22.782 +05:30 [INF] HTTP GET /Location responded 200 in 7.3185 ms
+2024-06-13 20:27:22.802 +05:30 [INF] HTTP GET /Department responded 200 in 3.5773 ms
+2024-06-13 20:27:23.905 +05:30 [INF] HTTP GET /Location responded 200 in 4.6104 ms
+2024-06-13 20:27:23.910 +05:30 [INF] HTTP GET /Department responded 200 in 4.0949 ms
+2024-06-13 20:27:24.735 +05:30 [INF] HTTP GET /Location responded 200 in 3.0650 ms
+2024-06-13 20:27:24.737 +05:30 [INF] HTTP GET /Department responded 200 in 2.3641 ms
+2024-06-13 20:27:25.690 +05:30 [INF] HTTP GET /Location responded 200 in 3.1996 ms
+2024-06-13 20:27:25.693 +05:30 [INF] HTTP GET /Department responded 200 in 3.2263 ms
+2024-06-13 20:27:27.680 +05:30 [INF] HTTP GET /Location responded 200 in 3.4609 ms
+2024-06-13 20:27:27.683 +05:30 [INF] HTTP GET /Department responded 200 in 2.6087 ms
+2024-06-13 20:27:28.620 +05:30 [INF] HTTP GET /Location responded 200 in 2.7075 ms
+2024-06-13 20:27:28.625 +05:30 [INF] HTTP GET /Department responded 200 in 1.7214 ms
+2024-06-13 20:30:50.693 +05:30 [INF] HTTP GET /Location responded 200 in 26.8195 ms
+2024-06-13 20:30:50.693 +05:30 [INF] HTTP GET /Department responded 200 in 26.8157 ms
+2024-06-13 20:30:56.902 +05:30 [INF] HTTP GET /Location responded 200 in 3.0461 ms
+2024-06-13 20:30:56.907 +05:30 [INF] HTTP GET /Department responded 200 in 3.7809 ms
+2024-06-13 20:31:38.128 +05:30 [INF] HTTP GET /Department responded 200 in 42.6265 ms
+2024-06-13 20:31:38.129 +05:30 [INF] HTTP GET /Location responded 200 in 49.7322 ms
+2024-06-13 20:31:57.834 +05:30 [INF] HTTP GET /Location responded 200 in 8.9056 ms
+2024-06-13 20:31:57.843 +05:30 [INF] HTTP GET /Department responded 200 in 4.3251 ms
+2024-06-13 20:33:08.986 +05:30 [INF] HTTP GET /Location responded 200 in 16.1538 ms
+2024-06-13 20:33:08.986 +05:30 [INF] HTTP GET /Department responded 200 in 13.7999 ms
+2024-06-13 23:19:21.612 +05:30 [INF] HTTP GET /Location responded 200 in 65.8390 ms
+2024-06-13 23:19:21.612 +05:30 [INF] HTTP GET /Department responded 200 in 62.5326 ms
+2024-06-13 23:20:56.170 +05:30 [INF] HTTP GET /Location responded 200 in 29.1757 ms
+2024-06-13 23:20:56.170 +05:30 [INF] HTTP GET /Department responded 200 in 12.4287 ms
+2024-06-13 23:20:59.829 +05:30 [INF] HTTP GET /Location responded 200 in 5.0794 ms
+2024-06-13 23:20:59.842 +05:30 [INF] HTTP GET /Department responded 200 in 3.9234 ms
+2024-06-13 23:21:00.914 +05:30 [INF] HTTP GET /Location responded 200 in 12.8957 ms
+2024-06-13 23:21:01.048 +05:30 [INF] HTTP GET /Department responded 200 in 49.3074 ms
+2024-06-13 23:21:02.764 +05:30 [INF] HTTP GET /Location responded 200 in 4.6459 ms
+2024-06-13 23:21:02.775 +05:30 [INF] HTTP GET /Department responded 200 in 6.4310 ms
+2024-06-13 23:21:03.595 +05:30 [INF] HTTP GET /Location responded 200 in 4.2986 ms
+2024-06-13 23:21:03.599 +05:30 [INF] HTTP GET /Department responded 200 in 3.8563 ms
+2024-06-13 23:21:16.479 +05:30 [INF] HTTP GET /Location responded 200 in 7.8486 ms
+2024-06-13 23:21:16.509 +05:30 [INF] HTTP GET /Department responded 200 in 29.9221 ms
+2024-06-13 23:21:22.702 +05:30 [INF] HTTP GET /Location responded 200 in 5.6881 ms
+2024-06-13 23:21:22.725 +05:30 [INF] HTTP GET /Department responded 200 in 4.3160 ms
+2024-06-13 23:21:45.879 +05:30 [INF] HTTP GET /Location responded 200 in 17.6324 ms
+2024-06-13 23:21:45.879 +05:30 [INF] HTTP GET /Department responded 200 in 13.1449 ms
+2024-06-13 23:21:47.480 +05:30 [INF] HTTP GET /Location responded 200 in 4.8171 ms
+2024-06-13 23:21:47.481 +05:30 [INF] HTTP GET /Department responded 200 in 2.5984 ms
+2024-06-13 23:22:19.911 +05:30 [INF] HTTP GET /Location responded 200 in 4.5551 ms
+2024-06-13 23:22:19.918 +05:30 [INF] HTTP GET /Department responded 200 in 3.9139 ms
+2024-06-13 23:22:21.649 +05:30 [INF] HTTP GET /Location responded 200 in 2.7806 ms
+2024-06-13 23:22:21.652 +05:30 [INF] HTTP GET /Department responded 200 in 2.7945 ms
+2024-06-13 23:22:30.518 +05:30 [INF] HTTP GET /Location responded 200 in 20.6074 ms
+2024-06-13 23:22:30.518 +05:30 [INF] HTTP GET /Department responded 200 in 19.2995 ms
+2024-06-13 23:22:33.718 +05:30 [INF] HTTP GET /Department responded 200 in 24.6637 ms
+2024-06-13 23:22:33.718 +05:30 [INF] HTTP GET /Location responded 200 in 24.9798 ms
+2024-06-13 23:22:38.867 +05:30 [INF] HTTP GET /Location responded 200 in 3.9546 ms
+2024-06-13 23:22:38.874 +05:30 [INF] HTTP GET /Department responded 200 in 3.4182 ms
+2024-06-13 23:22:39.542 +05:30 [INF] HTTP GET /Location responded 200 in 3.8577 ms
+2024-06-13 23:22:39.546 +05:30 [INF] HTTP GET /Department responded 200 in 3.6925 ms
+2024-06-13 23:22:40.517 +05:30 [INF] HTTP GET /Location responded 200 in 3.2965 ms
+2024-06-13 23:22:40.520 +05:30 [INF] HTTP GET /Department responded 200 in 3.3118 ms
+2024-06-13 23:22:54.774 +05:30 [INF] HTTP GET /Location responded 200 in 14.0971 ms
+2024-06-13 23:22:54.779 +05:30 [INF] HTTP GET /Department responded 200 in 9.1715 ms
+2024-06-13 23:25:38.607 +05:30 [INF] HTTP GET /Department responded 200 in 36.2577 ms
+2024-06-13 23:25:38.607 +05:30 [INF] HTTP GET /Location responded 200 in 37.1904 ms
+2024-06-13 23:25:45.077 +05:30 [INF] HTTP GET /Location responded 200 in 2.2431 ms
+2024-06-13 23:25:45.079 +05:30 [INF] HTTP GET /Department responded 200 in 2.5813 ms
+2024-06-13 23:26:06.309 +05:30 [INF] HTTP GET /Department responded 200 in 17.2100 ms
+2024-06-13 23:26:06.309 +05:30 [INF] HTTP GET /Location responded 200 in 17.3187 ms
+2024-06-13 23:26:08.486 +05:30 [INF] HTTP GET /Department responded 200 in 3.8826 ms
+2024-06-13 23:26:08.486 +05:30 [INF] HTTP GET /Location responded 200 in 3.8760 ms
+2024-06-13 23:28:49.033 +05:30 [INF] HTTP GET /Location responded 200 in 13.3263 ms
+2024-06-13 23:28:49.033 +05:30 [INF] HTTP GET /Department responded 200 in 13.3149 ms
+2024-06-13 23:28:51.792 +05:30 [INF] HTTP GET /Department responded 200 in 3.6969 ms
+2024-06-13 23:28:51.792 +05:30 [INF] HTTP GET /Location responded 200 in 4.0667 ms
+2024-06-13 23:29:01.444 +05:30 [INF] HTTP GET /Location responded 200 in 2.5099 ms
+2024-06-13 23:29:01.444 +05:30 [INF] HTTP GET /Department responded 200 in 2.5023 ms
+2024-06-13 23:29:10.459 +05:30 [INF] HTTP GET /Department responded 200 in 13.7328 ms
+2024-06-13 23:29:10.459 +05:30 [INF] HTTP GET /Location responded 200 in 13.7372 ms
+2024-06-13 23:29:11.383 +05:30 [INF] HTTP GET /Location responded 200 in 3.1665 ms
+2024-06-13 23:29:11.384 +05:30 [INF] HTTP GET /Department responded 200 in 3.4903 ms
+2024-06-13 23:29:12.306 +05:30 [INF] HTTP GET /Department responded 200 in 3.6670 ms
+2024-06-13 23:29:12.306 +05:30 [INF] HTTP GET /Location responded 200 in 4.1356 ms
+2024-06-13 23:29:13.348 +05:30 [INF] HTTP GET /Department responded 200 in 2.7738 ms
+2024-06-13 23:29:13.348 +05:30 [INF] HTTP GET /Location responded 200 in 3.1305 ms
+2024-06-13 23:29:15.664 +05:30 [INF] HTTP GET /Department responded 200 in 1.9121 ms
+2024-06-13 23:29:15.664 +05:30 [INF] HTTP GET /Location responded 200 in 1.9124 ms
+2024-06-13 23:30:00.381 +05:30 [INF] HTTP GET /Location responded 200 in 17.3584 ms
+2024-06-13 23:30:00.381 +05:30 [INF] HTTP GET /Department responded 200 in 17.0247 ms
+2024-06-13 23:30:04.549 +05:30 [INF] HTTP GET /Location responded 200 in 3.4211 ms
+2024-06-13 23:30:04.549 +05:30 [INF] HTTP GET /Department responded 200 in 3.0081 ms

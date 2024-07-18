@@ -1,0 +1,150 @@
+2024-05-31 11:18:57.133 +05:30 [INF] HTTP POST /Auth/Login responded 400 in 359.4608 ms
+2024-05-31 11:19:25.540 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 1661.1991 ms
+2024-05-31 11:19:43.721 +05:30 [INF] HTTP GET /Department responded 500 in 362.7824 ms
+2024-05-31 11:38:32.381 +05:30 [INF] HTTP POST /Auth/Register responded 201 in 1560.1823 ms
+2024-05-31 11:38:47.020 +05:30 [INF] HTTP POST /Auth/Register responded 201 in 665.9091 ms
+2024-05-31 11:40:05.668 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 919.1808 ms
+2024-05-31 11:40:28.065 +05:30 [INF] HTTP POST /Department responded 200 in 170.5910 ms
+2024-05-31 11:40:35.800 +05:30 [INF] HTTP POST /Department responded 200 in 18.0253 ms
+2024-05-31 11:40:43.308 +05:30 [INF] HTTP POST /Department responded 200 in 21.6485 ms
+2024-05-31 11:40:53.278 +05:30 [INF] HTTP GET /Department responded 200 in 83.1869 ms
+2024-05-31 11:41:17.183 +05:30 [INF] HTTP POST /Roles responded 200 in 113.0592 ms
+2024-05-31 11:41:21.487 +05:30 [INF] HTTP POST /Roles responded 200 in 22.0063 ms
+2024-05-31 11:41:26.041 +05:30 [INF] HTTP POST /Roles responded 200 in 16.5428 ms
+2024-05-31 11:41:36.297 +05:30 [INF] HTTP POST /Roles responded 200 in 16.8458 ms
+2024-05-31 11:41:45.700 +05:30 [INF] HTTP POST /Roles responded 200 in 9.7470 ms
+2024-05-31 11:41:57.584 +05:30 [INF] HTTP POST /Roles responded 200 in 11.5307 ms
+2024-05-31 11:42:06.426 +05:30 [INF] HTTP GET /Roles/PE responded 200 in 143.3579 ms
+2024-05-31 11:42:13.372 +05:30 [INF] HTTP GET /Roles/QA responded 200 in 16.9566 ms
+2024-05-31 11:42:20.766 +05:30 [INF] HTTP GET /Roles/UIUX responded 200 in 10.6193 ms
+2024-05-31 11:42:44.404 +05:30 [INF] HTTP GET /Roles/PE responded 200 in 6.5505 ms
+2024-05-31 11:43:25.362 +05:30 [INF] HTTP POST /Employee responded 201 in 228.6120 ms
+2024-05-31 11:43:40.309 +05:30 [INF] HTTP GET /Roles/QA responded 200 in 25.5344 ms
+2024-05-31 11:44:46.384 +05:30 [INF] HTTP POST /Employee responded 201 in 16.0970 ms
+2024-05-31 11:44:57.769 +05:30 [INF] HTTP GET /Employee responded 200 in 113.7090 ms
+2024-05-31 11:45:10.443 +05:30 [INF] HTTP GET /Employee/TZ1001 responded 200 in 62.7315 ms
+2024-05-31 11:45:17.460 +05:30 [INF] HTTP GET /Employee/TZ1002 responded 200 in 11.0068 ms
+2024-05-31 11:48:53.958 +05:30 [INF] HTTP GET /Employee responded 401 in 18.3130 ms
+2024-05-31 11:58:19.587 +05:30 [INF] HTTP GET /Department responded 401 in 0.8010 ms
+2024-05-31 16:59:40.334 +05:30 [INF] HTTP GET /Department responded 401 in 79.3627 ms
+2024-05-31 17:00:36.184 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 851.3910 ms
+2024-05-31 17:00:57.809 +05:30 [INF] HTTP GET /Roles/vkbkj responded 200 in 184.4057 ms
+2024-05-31 17:02:33.115 +05:30 [INF] HTTP GET /Roles/nbj responded 200 in 40.0153 ms
+2024-05-31 17:05:56.390 +05:30 [INF] Microsoft.AspNetCore.Http.DefaultHttpResponse
+2024-05-31 17:05:56.391 +05:30 [INF] HTTP GET /Roles/qe responded 200 in 26.2981 ms
+2024-05-31 17:07:45.522 +05:30 [INF] HTTP GET /Roles/gjvhk responded 200 in 19.1347 ms
+2024-05-31 17:17:06.552 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 1693.1032 ms
+2024-05-31 17:17:24.803 +05:30 [INF] HTTP GET /Roles/qwe responded 200 Error No roles Exist in qwe or qwe doesn't exists ms
+2024-05-31 17:18:02.520 +05:30 [INF] HTTP GET /Roles/qwe responded 200 Error 
+No roles Exist in qwe or qwe doesn't exists
+ ms
+2024-05-31 17:18:17.073 +05:30 [INF] HTTP GET /Roles/qwe responded 200 Error 
+No roles Exist in qwe or qwe doesn't exists
+
+2024-05-31 17:20:33.094 +05:30 [INF] HTTP GET /Roles/qwe responded 200 Error 
+System.Exception: No roles Exist in qwe or qwe doesn't exists
+   at WebApi.Controllers.RolesController.GetDepartmentRoles(String department)
+   at lambda_method91(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context)
+
+2024-05-31 17:25:46.978 +05:30 [INF] HTTP GET /Roles/qwe responded 404 in 18.4789 ms
+2024-05-31 17:29:35.708 +05:30 [INF] HTTP GET /Roles/qwe responded 404 in 82.2708 ms
+2024-05-31 17:29:53.374 +05:30 [INF] HTTP GET /Roles/qwe responded 200 Error 
+System.Exception: No roles Exist in qwe or qwe doesn't exists
+   at WebApi.Controllers.RolesController.GetDepartmentRoles(String department)
+   at lambda_method115(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context)
+
+2024-05-31 17:34:49.853 +05:30 [INF] HTTP GET /Roles/qwe responded 401 in 7.3115 ms
+2024-05-31 17:36:01.431 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 409.4189 ms
+2024-05-31 17:36:17.071 +05:30 [INF] HTTP GET /Roles/qwe responded 200 Error 
+System.Exception: No roles Exist in qwe or qwe doesn't exists
+   at WebApi.Controllers.RolesController.GetDepartmentRoles(String department)
+   at lambda_method131(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context)
+
+2024-05-31 17:52:36.983 +05:30 [INF] HTTP GET /Roles/qwe responded 401 in 1.5880 ms
+2024-05-31 17:52:43.496 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 716.6539 ms
+2024-05-31 17:52:54.634 +05:30 [INF] HTTP GET /Roles/qwe responded 200 Error 
+   at WebApi.Controllers.RolesController.GetDepartmentRoles(String department)
+   at lambda_method147(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context)
+
+2024-05-31 17:54:09.638 +05:30 [INF] HTTP GET /Roles/qwe responded 200 Error 
+Void MoveNext()
+
+2024-05-31 17:54:32.370 +05:30 [INF] HTTP GET /Roles/qwe responded 200 Error 
+WebApi
+
+2024-05-31 18:07:36.024 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 1836.3219 ms
+2024-05-31 18:07:53.328 +05:30 [INF] HTTP GET /Roles/1qwe responded 200 Error 
+System.Exception: No roles Exist in 1qwe or 1qwe doesn't exists
+   at WebApi.Controllers.RolesController.GetDepartmentRoles(String department) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\RolesController.cs:line 34
+   at lambda_method65(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-05-31 18:15:36.612 +05:30 [INF] HTTP GET /Roles/knkk%20 responded 401 in 10.9163 ms
+2024-05-31 18:16:24.745 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 665.1868 ms
+2024-05-31 18:16:36.197 +05:30 [INF] HTTP GET /Roles/knkk%20 responded 404 in 18.6723 ms
+2024-05-31 18:17:11.008 +05:30 [INF] HTTP GET /Employee responded 200 in 195.5574 ms
+2024-05-31 18:23:28.283 +05:30 [INF] HTTP GET /Department responded 200 in 41.2038 ms
+2024-05-31 18:25:22.093 +05:30 [INF] HTTP GET /Department responded 200 in 12.7782 ms
+2024-05-31 18:28:02.103 +05:30 [INF] HTTP GET /Roles/%20nb responded 401 in 0.9828 ms
+2024-05-31 18:29:03.195 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 148.1925 ms
+2024-05-31 18:29:23.287 +05:30 [INF] HTTP GET /Roles/%20nb responded 404 in 9.5506 ms
+2024-05-31 18:35:40.943 +05:30 [INF] HTTP GET /Roles/qw responded 401 in 0.3839 ms

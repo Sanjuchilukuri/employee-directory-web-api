@@ -1,0 +1,792 @@
+2024-06-11 00:03:06.310 +05:30 [INF] HTTP GET /Location responded 200 in 42.6740 ms
+2024-06-11 00:03:06.310 +05:30 [INF] HTTP GET /Department responded 200 in 49.2160 ms
+2024-06-11 00:03:06.373 +05:30 [INF] HTTP GET /Employee responded 200 in 122.2618 ms
+2024-06-11 00:03:07.980 +05:30 [INF] HTTP GET /Location responded 200 in 7.3464 ms
+2024-06-11 00:03:07.983 +05:30 [INF] HTTP GET /Department responded 200 in 10.3221 ms
+2024-06-11 00:03:08.105 +05:30 [INF] HTTP GET /Employee responded 200 in 132.5710 ms
+2024-06-11 00:03:10.775 +05:30 [INF] HTTP GET /Department responded 200 in 4.5661 ms
+2024-06-11 00:03:10.775 +05:30 [INF] HTTP GET /Location responded 200 in 4.5838 ms
+2024-06-11 00:03:10.799 +05:30 [INF] HTTP GET /Employee responded 200 in 29.5064 ms
+2024-06-11 00:04:50.851 +05:30 [INF] HTTP GET /Location responded 200 in 29.0799 ms
+2024-06-11 00:04:50.851 +05:30 [INF] HTTP GET /Department responded 200 in 29.9289 ms
+2024-06-11 00:04:50.917 +05:30 [INF] HTTP GET /Employee responded 200 in 96.4283 ms
+2024-06-11 00:17:22.912 +05:30 [INF] HTTP GET /Department responded 200 in 45.9220 ms
+2024-06-11 00:17:22.915 +05:30 [INF] HTTP GET /Location responded 200 in 48.3877 ms
+2024-06-11 00:17:22.966 +05:30 [INF] HTTP GET /Employee responded 200 in 99.8458 ms
+2024-06-11 00:17:27.841 +05:30 [INF] HTTP GET /Location responded 200 in 7.4711 ms
+2024-06-11 00:17:27.841 +05:30 [INF] HTTP GET /Department responded 200 in 7.4711 ms
+2024-06-11 00:17:27.949 +05:30 [INF] HTTP GET /Employee responded 200 in 115.8772 ms
+2024-06-11 00:18:03.265 +05:30 [INF] HTTP GET /Department responded 200 in 55.7602 ms
+2024-06-11 00:18:03.269 +05:30 [INF] HTTP GET /Location responded 200 in 59.5337 ms
+2024-06-11 00:18:03.355 +05:30 [INF] HTTP GET /Employee responded 200 in 148.6712 ms
+2024-06-11 00:24:25.832 +05:30 [INF] HTTP GET /Department responded 200 in 71.3586 ms
+2024-06-11 00:24:25.832 +05:30 [INF] HTTP GET /Location responded 200 in 71.1799 ms
+2024-06-11 00:24:25.912 +05:30 [INF] HTTP GET /Employee responded 200 in 145.9504 ms
+2024-06-11 00:24:36.408 +05:30 [INF] HTTP GET /Department responded 200 in 94.6015 ms
+2024-06-11 00:24:36.409 +05:30 [INF] HTTP GET /Location responded 200 in 97.0996 ms
+2024-06-11 00:24:36.467 +05:30 [INF] HTTP GET /Employee responded 200 in 155.9927 ms
+2024-06-11 06:29:29.560 +05:30 [INF] HTTP GET /Location responded 200 in 83.9658 ms
+2024-06-11 06:29:29.560 +05:30 [INF] HTTP GET /Department responded 200 in 53.1804 ms
+2024-06-11 06:29:29.633 +05:30 [INF] HTTP GET /Employee responded 200 in 163.5149 ms
+2024-06-11 06:31:43.508 +05:30 [INF] HTTP GET /Department responded 200 in 64.2858 ms
+2024-06-11 06:31:43.511 +05:30 [INF] HTTP GET /Location responded 200 in 69.1265 ms
+2024-06-11 06:31:43.588 +05:30 [INF] HTTP GET /Employee responded 200 in 148.5594 ms
+2024-06-11 06:35:45.025 +05:30 [INF] HTTP GET /Location responded 200 in 12.6066 ms
+2024-06-11 06:35:45.026 +05:30 [INF] HTTP GET /Department responded 200 in 13.7392 ms
+2024-06-11 06:35:45.056 +05:30 [INF] HTTP GET /Employee responded 200 in 43.8147 ms
+2024-06-11 06:35:46.170 +05:30 [INF] HTTP GET /Department responded 200 in 19.4941 ms
+2024-06-11 06:35:46.171 +05:30 [INF] HTTP GET /Location responded 200 in 19.4917 ms
+2024-06-11 06:35:46.239 +05:30 [INF] HTTP GET /Employee responded 200 in 87.3223 ms
+2024-06-11 06:35:56.027 +05:30 [INF] HTTP GET /Location responded 200 in 54.7527 ms
+2024-06-11 06:35:56.029 +05:30 [INF] HTTP GET /Department responded 200 in 66.5497 ms
+2024-06-11 06:35:56.074 +05:30 [INF] HTTP GET /Employee responded 200 in 112.2707 ms
+2024-06-11 06:37:08.744 +05:30 [INF] HTTP GET /Department responded 200 in 24.4402 ms
+2024-06-11 06:37:08.746 +05:30 [INF] HTTP GET /Location responded 200 in 26.4353 ms
+2024-06-11 06:37:08.819 +05:30 [INF] HTTP GET /Employee responded 200 in 100.2099 ms
+2024-06-11 06:37:10.661 +05:30 [INF] HTTP GET /Department responded 200 in 3.3603 ms
+2024-06-11 06:37:10.661 +05:30 [INF] HTTP GET /Location responded 200 in 3.7881 ms
+2024-06-11 06:37:10.730 +05:30 [INF] HTTP GET /Employee responded 200 in 72.9341 ms
+2024-06-11 06:37:11.656 +05:30 [INF] HTTP GET /Location responded 200 in 2.3968 ms
+2024-06-11 06:37:11.656 +05:30 [INF] HTTP GET /Department responded 200 in 2.3969 ms
+2024-06-11 06:37:11.685 +05:30 [INF] HTTP GET /Employee responded 200 in 31.0250 ms
+2024-06-11 06:37:27.562 +05:30 [INF] HTTP GET /Department responded 200 in 2.9925 ms
+2024-06-11 06:37:27.564 +05:30 [INF] HTTP GET /Location responded 200 in 2.8603 ms
+2024-06-11 06:37:27.690 +05:30 [INF] HTTP GET /Employee responded 200 in 130.9288 ms
+2024-06-11 06:37:58.248 +05:30 [INF] HTTP GET /Location responded 200 in 5.6748 ms
+2024-06-11 06:37:58.251 +05:30 [INF] HTTP GET /Department responded 200 in 4.8313 ms
+2024-06-11 06:37:58.273 +05:30 [INF] HTTP GET /Employee responded 200 in 33.2335 ms
+2024-06-11 06:38:16.712 +05:30 [INF] HTTP GET /Department responded 200 in 101.5933 ms
+2024-06-11 06:38:16.721 +05:30 [INF] HTTP GET /Location responded 200 in 85.3831 ms
+2024-06-11 06:38:16.789 +05:30 [INF] HTTP GET /Employee responded 200 in 181.6111 ms
+2024-06-11 06:38:16.796 +05:30 [INF] HTTP GET /Roles responded 200 in 128.6585 ms
+2024-06-11 06:38:26.576 +05:30 [INF] HTTP GET /Department responded 200 in 3.8924 ms
+2024-06-11 06:38:26.576 +05:30 [INF] HTTP GET /Location responded 200 in 3.8355 ms
+2024-06-11 06:38:26.636 +05:30 [INF] HTTP GET /Roles responded 200 in 63.9653 ms
+2024-06-11 06:38:26.637 +05:30 [INF] HTTP GET /Employee responded 200 in 64.8365 ms
+2024-06-11 06:38:29.725 +05:30 [INF] HTTP GET /Department responded 200 in 2.5224 ms
+2024-06-11 06:38:29.725 +05:30 [INF] HTTP GET /Location responded 200 in 2.4331 ms
+2024-06-11 06:38:29.801 +05:30 [INF] HTTP GET /Employee responded 200 in 79.0303 ms
+2024-06-11 06:38:29.809 +05:30 [INF] HTTP GET /Roles responded 200 in 86.3431 ms
+2024-06-11 06:38:33.069 +05:30 [INF] HTTP GET /Department responded 200 in 5.0759 ms
+2024-06-11 06:38:33.072 +05:30 [INF] HTTP GET /Location responded 200 in 6.5183 ms
+2024-06-11 06:38:33.139 +05:30 [INF] HTTP GET /Roles responded 200 in 75.1114 ms
+2024-06-11 06:38:33.142 +05:30 [INF] HTTP GET /Employee responded 200 in 78.3114 ms
+2024-06-11 06:41:05.237 +05:30 [INF] HTTP GET /Location responded 200 in 9.5372 ms
+2024-06-11 06:41:05.239 +05:30 [INF] HTTP GET /Department responded 200 in 11.6935 ms
+2024-06-11 06:41:05.319 +05:30 [INF] HTTP GET /Employee responded 200 in 98.9156 ms
+2024-06-11 06:41:10.736 +05:30 [INF] HTTP GET /Location responded 200 in 2.2771 ms
+2024-06-11 06:41:10.736 +05:30 [INF] HTTP GET /Department responded 200 in 2.2824 ms
+2024-06-11 06:41:10.739 +05:30 [INF] HTTP GET /Project responded 200 in 5.0777 ms
+2024-06-11 06:41:10.739 +05:30 [INF] HTTP GET /Manager responded 200 in 5.3633 ms
+2024-06-11 06:41:45.127 +05:30 [INF] HTTP GET /Roles/1 responded 200 in 72.0358 ms
+2024-06-11 06:41:51.964 +05:30 [INF] HTTP POST /Employee responded 201 in 353.8559 ms
+2024-06-11 06:41:58.241 +05:30 [INF] HTTP GET /Department responded 200 in 33.9865 ms
+2024-06-11 06:41:58.246 +05:30 [INF] HTTP GET /Location responded 200 in 25.5341 ms
+2024-06-11 06:41:58.330 +05:30 [INF] HTTP GET /Employee responded 200 in 128.0134 ms
+2024-06-11 06:44:54.486 +05:30 [INF] HTTP GET /Location responded 200 in 17.3380 ms
+2024-06-11 06:44:54.496 +05:30 [INF] HTTP GET /Department responded 200 in 27.1993 ms
+2024-06-11 06:44:54.532 +05:30 [INF] HTTP GET /Employee responded 200 in 66.3455 ms
+2024-06-11 06:44:57.883 +05:30 [INF] HTTP GET /Department responded 200 in 3.1087 ms
+2024-06-11 06:44:57.897 +05:30 [INF] HTTP GET /Location responded 200 in 14.0644 ms
+2024-06-11 06:44:58.062 +05:30 [INF] HTTP GET /Employee responded 200 in 181.4209 ms
+2024-06-11 06:44:58.073 +05:30 [INF] HTTP GET /Roles responded 200 in 183.9151 ms
+2024-06-11 06:51:28.214 +05:30 [INF] HTTP GET /Department responded 200 in 52.1615 ms
+2024-06-11 06:51:28.217 +05:30 [INF] HTTP GET /Location responded 200 in 54.7221 ms
+2024-06-11 06:51:28.331 +05:30 [INF] HTTP GET /Employee responded 200 in 162.4567 ms
+2024-06-11 06:51:28.344 +05:30 [INF] HTTP GET /Roles responded 200 in 180.7366 ms
+2024-06-11 06:51:41.094 +05:30 [INF] HTTP GET /Location responded 200 in 13.9341 ms
+2024-06-11 06:51:41.103 +05:30 [INF] HTTP GET /Department responded 200 in 21.7529 ms
+2024-06-11 06:51:41.179 +05:30 [INF] HTTP GET /Employee responded 200 in 107.1839 ms
+2024-06-11 06:51:41.184 +05:30 [INF] HTTP GET /Roles responded 200 in 104.5988 ms
+2024-06-11 06:53:03.240 +05:30 [INF] HTTP GET /Location responded 200 in 16.3279 ms
+2024-06-11 06:53:03.276 +05:30 [INF] HTTP GET /Department responded 200 in 52.1589 ms
+2024-06-11 06:53:03.324 +05:30 [INF] HTTP GET /Roles responded 200 in 100.3744 ms
+2024-06-11 06:53:03.331 +05:30 [INF] HTTP GET /Employee responded 200 in 106.8991 ms
+2024-06-11 06:53:06.318 +05:30 [INF] HTTP GET /Department responded 200 in 11.0537 ms
+2024-06-11 06:53:06.334 +05:30 [INF] HTTP GET /Location responded 200 in 24.5194 ms
+2024-06-11 06:53:06.411 +05:30 [INF] HTTP GET /Employee responded 200 in 104.0606 ms
+2024-06-11 06:53:06.438 +05:30 [INF] HTTP GET /Roles responded 200 in 128.4701 ms
+2024-06-11 06:53:15.978 +05:30 [INF] HTTP GET /Department responded 200 in 3.2285 ms
+2024-06-11 06:53:15.978 +05:30 [INF] HTTP GET /Location responded 200 in 2.9771 ms
+2024-06-11 06:53:16.020 +05:30 [INF] HTTP GET /Employee responded 200 in 44.5137 ms
+2024-06-11 06:53:16.028 +05:30 [INF] HTTP GET /Roles responded 200 in 51.3947 ms
+2024-06-11 06:53:19.962 +05:30 [INF] HTTP GET /Location responded 200 in 4.6558 ms
+2024-06-11 06:53:19.963 +05:30 [INF] HTTP GET /Department responded 200 in 6.4245 ms
+2024-06-11 06:53:20.019 +05:30 [INF] HTTP GET /Employee responded 200 in 63.1016 ms
+2024-06-11 06:53:20.025 +05:30 [INF] HTTP GET /Roles responded 200 in 63.7454 ms
+2024-06-11 06:53:23.023 +05:30 [INF] HTTP GET /Department responded 200 in 3.8573 ms
+2024-06-11 06:53:23.023 +05:30 [INF] HTTP GET /Location responded 200 in 3.7113 ms
+2024-06-11 06:53:23.085 +05:30 [INF] HTTP GET /Employee responded 200 in 66.6567 ms
+2024-06-11 06:53:23.091 +05:30 [INF] HTTP GET /Roles responded 200 in 71.5898 ms
+2024-06-11 06:53:27.004 +05:30 [INF] HTTP GET /Department responded 200 in 8.6565 ms
+2024-06-11 06:53:27.004 +05:30 [INF] HTTP GET /Location responded 200 in 8.0187 ms
+2024-06-11 06:53:27.059 +05:30 [INF] HTTP GET /Employee responded 200 in 63.5375 ms
+2024-06-11 06:53:27.060 +05:30 [INF] HTTP GET /Roles responded 200 in 61.7672 ms
+2024-06-11 06:53:37.219 +05:30 [INF] HTTP GET /Department responded 200 in 26.9383 ms
+2024-06-11 06:53:37.235 +05:30 [INF] HTTP GET /Location responded 200 in 37.9968 ms
+2024-06-11 06:53:37.336 +05:30 [INF] HTTP GET /Employee responded 200 in 151.9973 ms
+2024-06-11 06:53:37.340 +05:30 [INF] HTTP GET /Roles responded 200 in 140.8877 ms
+2024-06-11 06:53:44.975 +05:30 [INF] HTTP GET /Location responded 200 in 3.8143 ms
+2024-06-11 06:53:44.977 +05:30 [INF] HTTP GET /Department responded 200 in 6.0200 ms
+2024-06-11 06:53:45.044 +05:30 [INF] HTTP GET /Roles responded 200 in 73.1892 ms
+2024-06-11 06:53:45.048 +05:30 [INF] HTTP GET /Employee responded 200 in 77.2328 ms
+2024-06-11 06:53:49.023 +05:30 [INF] HTTP GET /Department responded 200 in 5.4870 ms
+2024-06-11 06:53:49.024 +05:30 [INF] HTTP GET /Location responded 200 in 5.1461 ms
+2024-06-11 06:53:49.076 +05:30 [INF] HTTP GET /Employee responded 200 in 58.6244 ms
+2024-06-11 06:53:49.081 +05:30 [INF] HTTP GET /Roles responded 200 in 61.3348 ms
+2024-06-11 06:53:51.015 +05:30 [INF] HTTP GET /Department responded 200 in 7.3525 ms
+2024-06-11 06:53:51.020 +05:30 [INF] HTTP GET /Location responded 200 in 8.3786 ms
+2024-06-11 06:53:51.076 +05:30 [INF] HTTP GET /Employee responded 200 in 69.0053 ms
+2024-06-11 06:53:51.092 +05:30 [INF] HTTP GET /Roles responded 200 in 80.3085 ms
+2024-06-11 06:54:16.145 +05:30 [INF] HTTP GET /Department responded 200 in 4.8430 ms
+2024-06-11 06:54:16.149 +05:30 [INF] HTTP GET /Location responded 200 in 5.0127 ms
+2024-06-11 06:54:16.227 +05:30 [INF] HTTP GET /Roles responded 200 in 88.5284 ms
+2024-06-11 06:54:16.232 +05:30 [INF] HTTP GET /Employee responded 200 in 99.0327 ms
+2024-06-11 06:55:21.981 +05:30 [INF] HTTP GET /Location responded 200 in 12.1180 ms
+2024-06-11 06:55:21.982 +05:30 [INF] HTTP GET /Department responded 200 in 13.5482 ms
+2024-06-11 06:55:22.042 +05:30 [INF] HTTP GET /Employee responded 200 in 96.1590 ms
+2024-06-11 06:55:22.068 +05:30 [INF] HTTP GET /Roles responded 200 in 98.8650 ms
+2024-06-11 06:56:01.140 +05:30 [INF] HTTP GET /Department responded 200 in 8.3697 ms
+2024-06-11 06:56:01.141 +05:30 [INF] HTTP GET /Location responded 200 in 8.5355 ms
+2024-06-11 06:56:01.225 +05:30 [INF] HTTP GET /Roles responded 200 in 90.3139 ms
+2024-06-11 06:56:01.232 +05:30 [INF] HTTP GET /Employee responded 200 in 105.1589 ms
+2024-06-11 06:56:09.021 +05:30 [INF] HTTP GET /Location responded 200 in 4.3897 ms
+2024-06-11 06:56:09.021 +05:30 [INF] HTTP GET /Department responded 200 in 4.3926 ms
+2024-06-11 06:56:09.095 +05:30 [INF] HTTP GET /Roles responded 200 in 78.0117 ms
+2024-06-11 06:56:09.098 +05:30 [INF] HTTP GET /Employee responded 200 in 87.1406 ms
+2024-06-11 06:56:21.006 +05:30 [INF] HTTP GET /Department responded 200 in 5.5272 ms
+2024-06-11 06:56:21.007 +05:30 [INF] HTTP GET /Location responded 200 in 4.8745 ms
+2024-06-11 06:56:21.062 +05:30 [INF] HTTP GET /Employee responded 200 in 63.4124 ms
+2024-06-11 06:56:21.064 +05:30 [INF] HTTP GET /Roles responded 200 in 61.7311 ms
+2024-06-11 06:56:26.087 +05:30 [INF] HTTP GET /Location responded 200 in 6.3821 ms
+2024-06-11 06:56:26.091 +05:30 [INF] HTTP GET /Department responded 200 in 12.4099 ms
+2024-06-11 06:56:26.152 +05:30 [INF] HTTP GET /Employee responded 200 in 74.3112 ms
+2024-06-11 06:56:26.162 +05:30 [INF] HTTP GET /Roles responded 200 in 79.6133 ms
+2024-06-11 06:56:29.026 +05:30 [INF] HTTP GET /Department responded 200 in 4.5364 ms
+2024-06-11 06:56:29.027 +05:30 [INF] HTTP GET /Location responded 200 in 5.3521 ms
+2024-06-11 06:56:29.098 +05:30 [INF] HTTP GET /Employee responded 200 in 76.5545 ms
+2024-06-11 06:56:29.122 +05:30 [INF] HTTP GET /Roles responded 200 in 100.5193 ms
+2024-06-11 06:56:46.018 +05:30 [INF] HTTP GET /Department responded 200 in 4.6765 ms
+2024-06-11 06:56:46.020 +05:30 [INF] HTTP GET /Location responded 200 in 7.0341 ms
+2024-06-11 06:56:46.066 +05:30 [INF] HTTP GET /Roles responded 200 in 52.8500 ms
+2024-06-11 06:56:46.076 +05:30 [INF] HTTP GET /Employee responded 200 in 65.1340 ms
+2024-06-11 06:56:51.079 +05:30 [INF] HTTP GET /Location responded 200 in 4.0042 ms
+2024-06-11 06:56:51.079 +05:30 [INF] HTTP GET /Department responded 200 in 4.0042 ms
+2024-06-11 06:56:51.147 +05:30 [INF] HTTP GET /Employee responded 200 in 72.4915 ms
+2024-06-11 06:56:51.148 +05:30 [INF] HTTP GET /Roles responded 200 in 71.7402 ms
+2024-06-11 06:57:11.114 +05:30 [INF] HTTP GET /Department responded 200 in 5.3812 ms
+2024-06-11 06:57:11.116 +05:30 [INF] HTTP GET /Location responded 200 in 6.7119 ms
+2024-06-11 06:57:11.196 +05:30 [INF] HTTP GET /Employee responded 200 in 86.9935 ms
+2024-06-11 06:57:11.198 +05:30 [INF] HTTP GET /Roles responded 200 in 86.3801 ms
+2024-06-11 06:57:19.017 +05:30 [INF] HTTP GET /Location responded 200 in 10.3448 ms
+2024-06-11 06:57:19.017 +05:30 [INF] HTTP GET /Department responded 200 in 10.3560 ms
+2024-06-11 06:57:19.072 +05:30 [INF] HTTP GET /Employee responded 200 in 73.1239 ms
+2024-06-11 06:57:19.083 +05:30 [INF] HTTP GET /Roles responded 200 in 76.3244 ms
+2024-06-11 06:57:27.028 +05:30 [INF] HTTP GET /Location responded 200 in 5.1827 ms
+2024-06-11 06:57:27.028 +05:30 [INF] HTTP GET /Department responded 200 in 5.6346 ms
+2024-06-11 06:57:27.092 +05:30 [INF] HTTP GET /Employee responded 200 in 70.4516 ms
+2024-06-11 06:57:27.093 +05:30 [INF] HTTP GET /Roles responded 200 in 66.2906 ms
+2024-06-11 06:57:38.916 +05:30 [INF] HTTP GET /Department responded 200 in 3.3636 ms
+2024-06-11 06:57:38.916 +05:30 [INF] HTTP GET /Location responded 200 in 3.0475 ms
+2024-06-11 06:57:38.972 +05:30 [INF] HTTP GET /Employee responded 200 in 60.2940 ms
+2024-06-11 06:57:38.978 +05:30 [INF] HTTP GET /Roles responded 200 in 63.4584 ms
+2024-06-11 06:58:30.779 +05:30 [INF] HTTP GET /Employee responded 200 in 87.9250 ms
+2024-06-11 06:58:31.029 +05:30 [INF] HTTP GET /Location responded 200 in 6.8635 ms
+2024-06-11 06:58:31.029 +05:30 [INF] HTTP GET /Department responded 200 in 8.0832 ms
+2024-06-11 06:58:31.091 +05:30 [INF] HTTP GET /Employee responded 200 in 71.2392 ms
+2024-06-11 06:58:31.105 +05:30 [INF] HTTP GET /Roles responded 200 in 83.1509 ms
+2024-06-11 06:58:37.020 +05:30 [INF] HTTP GET /Location responded 200 in 3.1579 ms
+2024-06-11 06:58:37.022 +05:30 [INF] HTTP GET /Department responded 200 in 5.0726 ms
+2024-06-11 06:58:37.071 +05:30 [INF] HTTP GET /Employee responded 200 in 54.9220 ms
+2024-06-11 06:58:37.073 +05:30 [INF] HTTP GET /Roles responded 200 in 56.1756 ms
+2024-06-11 06:58:41.329 +05:30 [INF] HTTP GET /Location responded 200 in 4.1451 ms
+2024-06-11 06:58:41.330 +05:30 [INF] HTTP GET /Department responded 200 in 4.3140 ms
+2024-06-11 06:58:41.391 +05:30 [INF] HTTP GET /Employee responded 200 in 66.5817 ms
+2024-06-11 06:58:41.404 +05:30 [INF] HTTP GET /Roles responded 200 in 77.7863 ms
+2024-06-11 06:58:51.184 +05:30 [INF] HTTP GET /Department responded 200 in 8.4740 ms
+2024-06-11 06:58:51.184 +05:30 [INF] HTTP GET /Location responded 200 in 6.2425 ms
+2024-06-11 06:58:51.230 +05:30 [INF] HTTP GET /Employee responded 200 in 63.3598 ms
+2024-06-11 06:58:51.234 +05:30 [INF] HTTP GET /Roles responded 200 in 55.9949 ms
+2024-06-11 06:58:54.843 +05:30 [INF] HTTP GET /Location responded 200 in 6.0796 ms
+2024-06-11 06:58:54.845 +05:30 [INF] HTTP GET /Department responded 200 in 8.7178 ms
+2024-06-11 06:58:54.873 +05:30 [INF] HTTP GET /Employee responded 200 in 35.8152 ms
+2024-06-11 07:05:05.954 +05:30 [INF] HTTP GET /Department responded 200 in 13.6279 ms
+2024-06-11 07:05:05.958 +05:30 [INF] HTTP GET /Location responded 200 in 17.7369 ms
+2024-06-11 07:05:06.006 +05:30 [INF] HTTP GET /Employee responded 200 in 65.6121 ms
+2024-06-11 07:07:11.310 +05:30 [INF] HTTP GET /Department responded 200 in 73.5866 ms
+2024-06-11 07:07:11.374 +05:30 [INF] HTTP GET /Location responded 200 in 137.3319 ms
+2024-06-11 07:07:11.389 +05:30 [INF] HTTP GET /Employee responded 200 in 155.6680 ms
+2024-06-11 07:08:28.005 +05:30 [INF] HTTP GET /Department responded 200 in 39.8966 ms
+2024-06-11 07:08:28.009 +05:30 [INF] HTTP GET /Location responded 200 in 47.9979 ms
+2024-06-11 07:08:28.098 +05:30 [INF] HTTP GET /Employee responded 200 in 144.9114 ms
+2024-06-11 07:11:15.546 +05:30 [INF] HTTP GET /Location responded 200 in 7.8704 ms
+2024-06-11 07:11:15.554 +05:30 [INF] HTTP GET /Department responded 200 in 16.3714 ms
+2024-06-11 07:11:15.655 +05:30 [INF] HTTP GET /Employee responded 200 in 117.7452 ms
+2024-06-11 07:17:34.659 +05:30 [INF] HTTP GET /Department responded 200 in 17.0328 ms
+2024-06-11 07:17:34.680 +05:30 [INF] HTTP GET /Location responded 200 in 36.3980 ms
+2024-06-11 07:17:34.830 +05:30 [INF] HTTP GET /Employee responded 200 in 186.8065 ms
+2024-06-11 07:17:50.220 +05:30 [INF] HTTP GET /Department responded 200 in 21.8439 ms
+2024-06-11 07:17:50.235 +05:30 [INF] HTTP GET /Location responded 200 in 33.1439 ms
+2024-06-11 07:17:50.293 +05:30 [INF] HTTP GET /Employee responded 200 in 98.1332 ms
+2024-06-11 07:17:50.302 +05:30 [INF] HTTP GET /Roles responded 200 in 101.1683 ms
+2024-06-11 07:17:55.294 +05:30 [INF] HTTP GET /Employee responded 200 in 61.6662 ms
+2024-06-11 07:17:57.019 +05:30 [INF] HTTP GET /Department responded 200 in 3.1800 ms
+2024-06-11 07:17:57.019 +05:30 [INF] HTTP GET /Location responded 200 in 3.1799 ms
+2024-06-11 07:17:57.077 +05:30 [INF] HTTP GET /Employee responded 200 in 66.7898 ms
+2024-06-11 07:17:57.081 +05:30 [INF] HTTP GET /Roles responded 200 in 65.1936 ms
+2024-06-11 07:17:59.536 +05:30 [INF] HTTP GET /Department responded 200 in 3.2671 ms
+2024-06-11 07:17:59.536 +05:30 [INF] HTTP GET /Location responded 200 in 3.2444 ms
+2024-06-11 07:17:59.595 +05:30 [INF] HTTP GET /Employee responded 200 in 62.2924 ms
+2024-06-11 07:18:48.698 +05:30 [INF] HTTP GET /Department responded 200 in 11.3397 ms
+2024-06-11 07:18:48.698 +05:30 [INF] HTTP GET /Location responded 200 in 11.3362 ms
+2024-06-11 07:18:48.785 +05:30 [INF] HTTP GET /Employee responded 200 in 99.4386 ms
+2024-06-11 07:19:24.739 +05:30 [INF] HTTP GET /Department responded 200 in 3.3825 ms
+2024-06-11 07:19:24.739 +05:30 [INF] HTTP GET /Location responded 200 in 3.0761 ms
+2024-06-11 07:19:24.756 +05:30 [INF] HTTP GET /Employee responded 200 in 21.8000 ms
+2024-06-11 07:19:49.032 +05:30 [INF] HTTP GET /Department responded 200 in 13.9685 ms
+2024-06-11 07:19:49.037 +05:30 [INF] HTTP GET /Location responded 200 in 15.9921 ms
+2024-06-11 07:19:49.153 +05:30 [INF] HTTP GET /Employee responded 200 in 155.6773 ms
+2024-06-11 07:20:07.972 +05:30 [INF] HTTP GET /Location responded 200 in 6.0486 ms
+2024-06-11 07:20:07.972 +05:30 [INF] HTTP GET /Department responded 200 in 6.5291 ms
+2024-06-11 07:20:08.065 +05:30 [INF] HTTP GET /Employee responded 200 in 103.2019 ms
+2024-06-11 07:22:43.845 +05:30 [INF] HTTP GET /Department responded 200 in 7.2748 ms
+2024-06-11 07:22:43.851 +05:30 [INF] HTTP GET /Location responded 200 in 12.3685 ms
+2024-06-11 07:22:43.907 +05:30 [INF] HTTP GET /Employee responded 200 in 68.3707 ms
+2024-06-11 08:07:30.084 +05:30 [INF] HTTP GET /Location responded 200 in 68.0062 ms
+2024-06-11 08:07:30.084 +05:30 [INF] HTTP GET /Department responded 200 in 57.7833 ms
+2024-06-11 08:07:30.129 +05:30 [INF] HTTP GET /Employee responded 200 in 113.1828 ms
+2024-06-11 08:07:34.052 +05:30 [INF] HTTP GET /Location responded 200 in 10.4284 ms
+2024-06-11 08:07:34.055 +05:30 [INF] HTTP GET /Department responded 200 in 14.8096 ms
+2024-06-11 08:07:34.119 +05:30 [INF] HTTP GET /Employee responded 200 in 81.1395 ms
+2024-06-11 08:07:37.907 +05:30 [INF] HTTP GET /Department responded 200 in 6.6241 ms
+2024-06-11 08:07:37.911 +05:30 [INF] HTTP GET /Location responded 200 in 7.1103 ms
+2024-06-11 08:07:37.954 +05:30 [INF] HTTP GET /Employee responded 200 in 64.8308 ms
+2024-06-11 08:07:41.939 +05:30 [INF] HTTP GET /Location responded 200 in 3.6088 ms
+2024-06-11 08:07:41.939 +05:30 [INF] HTTP GET /Department responded 200 in 4.6376 ms
+2024-06-11 08:07:42.037 +05:30 [INF] HTTP GET /Employee responded 200 in 103.3022 ms
+2024-06-11 08:07:52.819 +05:30 [INF] HTTP GET /Department responded 200 in 33.6950 ms
+2024-06-11 08:07:52.820 +05:30 [INF] HTTP GET /Location responded 200 in 33.7643 ms
+2024-06-11 08:07:52.894 +05:30 [INF] HTTP GET /Employee responded 200 in 110.7867 ms
+2024-06-11 08:07:52.905 +05:30 [INF] HTTP GET /Roles responded 200 in 117.6937 ms
+2024-06-11 08:07:57.199 +05:30 [INF] HTTP GET /Department responded 200 in 10.0441 ms
+2024-06-11 08:07:57.200 +05:30 [INF] HTTP GET /Location responded 200 in 9.8028 ms
+2024-06-11 08:07:57.235 +05:30 [INF] HTTP GET /Employee responded 200 in 45.6560 ms
+2024-06-11 08:08:08.241 +05:30 [INF] HTTP GET /Employee responded 401 in 0.1297 ms
+2024-06-11 08:08:08.244 +05:30 [INF] HTTP GET /Location responded 401 in 0.0349 ms
+2024-06-11 08:08:08.244 +05:30 [INF] HTTP GET /Department responded 401 in 0.1239 ms
+2024-06-11 08:08:20.158 +05:30 [INF] HTTP POST /Auth/login responded 200 in 187.0429 ms
+2024-06-11 08:08:20.251 +05:30 [INF] HTTP GET /Location responded 200 in 4.6614 ms
+2024-06-11 08:08:20.251 +05:30 [INF] HTTP GET /Department responded 200 in 4.9198 ms
+2024-06-11 08:08:20.295 +05:30 [INF] HTTP GET /Employee responded 200 in 48.4603 ms
+2024-06-11 08:12:58.867 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 177.4501 ms
+2024-06-11 08:14:31.117 +05:30 [INF] HTTP POST /Auth/login responded 200 in 376.2005 ms
+2024-06-11 08:14:31.216 +05:30 [INF] HTTP GET /Department responded 200 in 21.4881 ms
+2024-06-11 08:14:31.222 +05:30 [INF] HTTP GET /Location responded 200 in 25.8820 ms
+2024-06-11 08:14:31.281 +05:30 [INF] HTTP GET /Employee responded 200 in 86.3893 ms
+2024-06-11 10:41:09.341 +05:30 [INF] HTTP GET /Department responded 200 in 21.9546 ms
+2024-06-11 10:41:09.341 +05:30 [INF] HTTP GET /Location responded 200 in 21.0886 ms
+2024-06-11 10:41:09.383 +05:30 [INF] HTTP GET /Employee responded 200 in 65.1345 ms
+2024-06-11 10:45:19.392 +05:30 [INF] HTTP GET /Department responded 200 in 26.1025 ms
+2024-06-11 10:45:19.397 +05:30 [INF] HTTP GET /Location responded 200 in 27.1205 ms
+2024-06-11 10:45:19.428 +05:30 [INF] HTTP GET /Employee responded 200 in 60.6255 ms
+2024-06-11 10:45:19.436 +05:30 [INF] HTTP GET /Roles responded 200 in 66.3598 ms
+2024-06-11 10:47:25.656 +05:30 [INF] HTTP GET /Location responded 200 in 7.1061 ms
+2024-06-11 10:47:25.656 +05:30 [INF] HTTP GET /Department responded 200 in 7.4784 ms
+2024-06-11 10:47:25.710 +05:30 [INF] HTTP GET /Employee responded 200 in 62.7784 ms
+2024-06-11 10:47:27.683 +05:30 [INF] HTTP GET /Location responded 200 in 3.5059 ms
+2024-06-11 10:47:27.683 +05:30 [INF] HTTP GET /Department responded 200 in 3.5060 ms
+2024-06-11 10:47:27.719 +05:30 [INF] HTTP GET /Employee responded 200 in 40.1249 ms
+2024-06-11 10:47:27.729 +05:30 [INF] HTTP GET /Roles responded 200 in 45.9423 ms
+2024-06-11 10:47:29.073 +05:30 [INF] HTTP GET /Department responded 200 in 2.9531 ms
+2024-06-11 10:47:29.073 +05:30 [INF] HTTP GET /Location responded 200 in 2.9349 ms
+2024-06-11 10:47:29.119 +05:30 [INF] HTTP GET /Employee responded 200 in 48.9033 ms
+2024-06-11 10:47:30.826 +05:30 [INF] HTTP GET /Department responded 200 in 12.0405 ms
+2024-06-11 10:47:30.830 +05:30 [INF] HTTP GET /Location responded 200 in 15.9068 ms
+2024-06-11 10:47:30.856 +05:30 [INF] HTTP GET /Employee responded 200 in 42.6037 ms
+2024-06-11 10:47:30.869 +05:30 [INF] HTTP GET /Roles responded 200 in 54.8338 ms
+2024-06-11 10:50:36.499 +05:30 [INF] HTTP GET /Department responded 401 in 0.1874 ms
+2024-06-11 10:50:36.499 +05:30 [INF] HTTP GET /Roles responded 401 in 0.0983 ms
+2024-06-11 10:50:36.499 +05:30 [INF] HTTP GET /Employee responded 401 in 0.2313 ms
+2024-06-11 10:50:36.500 +05:30 [INF] HTTP GET /Location responded 401 in 0.1931 ms
+2024-06-11 10:54:15.500 +05:30 [INF] HTTP POST /Auth/login responded 200 in 189.0849 ms
+2024-06-11 10:54:15.577 +05:30 [INF] HTTP GET /Department responded 200 in 6.4290 ms
+2024-06-11 10:54:15.583 +05:30 [INF] HTTP GET /Location responded 200 in 11.2427 ms
+2024-06-11 10:54:15.630 +05:30 [INF] HTTP GET /Employee responded 200 in 59.5072 ms
+2024-06-11 10:54:43.925 +05:30 [INF] HTTP POST /Auth/Login responded 200 in 160.4197 ms
+2024-06-11 10:55:18.782 +05:30 [INF] HTTP GET /Roles responded 200 in 45.4100 ms
+2024-06-11 10:58:02.907 +05:30 [INF] HTTP GET /Location responded 200 in 21.0240 ms
+2024-06-11 10:58:02.907 +05:30 [INF] HTTP GET /Manager responded 200 in 21.0239 ms
+2024-06-11 10:58:02.911 +05:30 [INF] HTTP GET /Department responded 200 in 20.4162 ms
+2024-06-11 10:58:02.911 +05:30 [INF] HTTP GET /Project responded 200 in 25.0747 ms
+2024-06-11 10:58:02.923 +05:30 [INF] HTTP GET /Employee/TZ1004 responded 200 in 37.0266 ms
+2024-06-11 10:58:09.077 +05:30 [INF] HTTP PUT /Employee/TZ1004 responded 200 in 53.2997 ms
+2024-06-11 10:58:13.523 +05:30 [INF] HTTP GET /Department responded 200 in 2.4042 ms
+2024-06-11 10:58:13.524 +05:30 [INF] HTTP GET /Location responded 200 in 2.5786 ms
+2024-06-11 10:58:13.573 +05:30 [INF] HTTP GET /Employee responded 200 in 52.9080 ms
+2024-06-11 10:58:19.587 +05:30 [INF] HTTP GET /Project responded 200 in 3.8275 ms
+2024-06-11 10:58:19.587 +05:30 [INF] HTTP GET /Manager responded 200 in 3.1147 ms
+2024-06-11 10:58:19.587 +05:30 [INF] HTTP GET /Location responded 200 in 3.1278 ms
+2024-06-11 10:58:19.595 +05:30 [INF] HTTP GET /Department responded 200 in 10.5482 ms
+2024-06-11 10:58:19.604 +05:30 [INF] HTTP GET /Employee/TZ1002 responded 200 in 20.6637 ms
+2024-06-11 10:58:23.464 +05:30 [INF] HTTP PUT /Employee/TZ1002 responded 200 in 39.8332 ms
+2024-06-11 10:58:28.154 +05:30 [INF] HTTP GET /Department responded 200 in 8.9473 ms
+2024-06-11 10:58:28.154 +05:30 [INF] HTTP GET /Location responded 200 in 9.0475 ms
+2024-06-11 10:58:28.180 +05:30 [INF] HTTP GET /Employee responded 200 in 35.3040 ms
+2024-06-11 10:58:44.125 +05:30 [INF] HTTP GET /Location responded 200 in 14.5676 ms
+2024-06-11 10:58:44.126 +05:30 [INF] HTTP GET /Department responded 200 in 15.7925 ms
+2024-06-11 10:58:44.158 +05:30 [INF] HTTP GET /Employee responded 200 in 48.9255 ms
+2024-06-11 10:58:44.159 +05:30 [INF] HTTP GET /Roles responded 200 in 49.4523 ms
+2024-06-11 10:58:46.670 +05:30 [INF] HTTP GET /Location responded 200 in 3.0623 ms
+2024-06-11 10:58:46.670 +05:30 [INF] HTTP GET /Department responded 200 in 3.2082 ms
+2024-06-11 10:58:46.699 +05:30 [INF] HTTP GET /Employee responded 200 in 32.7897 ms
+2024-06-11 11:16:41.063 +05:30 [INF] HTTP GET /Department responded 200 in 26.2496 ms
+2024-06-11 11:16:41.069 +05:30 [INF] HTTP GET /Location responded 200 in 31.1843 ms
+2024-06-11 11:16:41.104 +05:30 [INF] HTTP GET /Employee responded 200 in 67.0480 ms
+2024-06-11 11:16:41.131 +05:30 [INF] HTTP GET /Roles responded 200 in 94.2951 ms
+2024-06-11 11:17:05.527 +05:30 [INF] HTTP GET /Department responded 200 in 5.3284 ms
+2024-06-11 11:17:05.528 +05:30 [INF] HTTP GET /Location responded 200 in 4.8478 ms
+2024-06-11 11:17:05.576 +05:30 [INF] HTTP GET /Employee responded 200 in 54.3534 ms
+2024-06-11 11:18:29.312 +05:30 [INF] HTTP GET /Roles responded 200 in 106.5679 ms
+2024-06-11 11:43:50.017 +05:30 [INF] HTTP GET /Department responded 200 in 58.9331 ms
+2024-06-11 11:43:50.017 +05:30 [INF] HTTP GET /Location responded 200 in 68.3520 ms
+2024-06-11 11:43:50.060 +05:30 [INF] HTTP GET /Employee responded 200 in 137.7861 ms
+2024-06-11 14:46:41.487 +05:30 [INF] HTTP GET /Location responded 200 in 69.0065 ms
+2024-06-11 14:46:41.487 +05:30 [INF] HTTP GET /Department responded 200 in 70.7882 ms
+2024-06-11 14:46:41.527 +05:30 [INF] HTTP GET /Employee responded 200 in 111.5815 ms
+2024-06-11 14:46:48.802 +05:30 [INF] HTTP GET /Department responded 200 in 2.9402 ms
+2024-06-11 14:46:48.807 +05:30 [INF] HTTP GET /Project responded 200 in 8.8150 ms
+2024-06-11 14:46:48.807 +05:30 [INF] HTTP GET /Manager responded 200 in 7.9958 ms
+2024-06-11 14:46:48.812 +05:30 [INF] HTTP GET /Location responded 200 in 12.3459 ms
+2024-06-11 14:46:48.825 +05:30 [INF] HTTP GET /Employee/TZ1001 responded 200 in 24.9268 ms
+2024-06-11 14:46:51.804 +05:30 [INF] HTTP GET /Department responded 200 in 2.6511 ms
+2024-06-11 14:46:51.804 +05:30 [INF] HTTP GET /Location responded 200 in 2.6516 ms
+2024-06-11 14:46:51.836 +05:30 [INF] HTTP GET /Employee responded 200 in 34.6902 ms
+2024-06-11 14:46:54.044 +05:30 [INF] HTTP GET /Project responded 200 in 3.1313 ms
+2024-06-11 14:46:54.044 +05:30 [INF] HTTP GET /Department responded 200 in 2.8016 ms
+2024-06-11 14:46:54.044 +05:30 [INF] HTTP GET /Manager responded 200 in 2.9333 ms
+2024-06-11 14:46:54.046 +05:30 [INF] HTTP GET /Location responded 200 in 4.5800 ms
+2024-06-11 14:46:54.061 +05:30 [INF] HTTP GET /Employee/TZ1002 responded 200 in 19.8946 ms
+2024-06-11 14:46:57.215 +05:30 [INF] HTTP GET /Department responded 200 in 2.6798 ms
+2024-06-11 14:46:57.215 +05:30 [INF] HTTP GET /Location responded 200 in 2.6775 ms
+2024-06-11 14:46:57.243 +05:30 [INF] HTTP GET /Employee responded 200 in 30.4159 ms
+2024-06-11 14:47:05.441 +05:30 [INF] HTTP GET /Location responded 200 in 3.9317 ms
+2024-06-11 14:47:05.441 +05:30 [INF] HTTP GET /Department responded 200 in 3.5436 ms
+2024-06-11 14:47:05.496 +05:30 [INF] HTTP GET /Roles responded 200 in 58.2198 ms
+2024-06-11 14:47:05.508 +05:30 [INF] HTTP GET /Employee responded 200 in 71.5234 ms
+2024-06-11 14:47:11.458 +05:30 [INF] HTTP GET /Employee responded 200 in 25.0693 ms
+2024-06-11 14:47:14.249 +05:30 [INF] HTTP GET /Project responded 200 in 3.4026 ms
+2024-06-11 14:47:14.249 +05:30 [INF] HTTP GET /Manager responded 200 in 3.4028 ms
+2024-06-11 14:47:14.249 +05:30 [INF] HTTP GET /Location responded 200 in 3.7744 ms
+2024-06-11 14:47:14.252 +05:30 [INF] HTTP GET /Department responded 200 in 5.1270 ms
+2024-06-11 14:47:14.261 +05:30 [INF] HTTP GET /Employee/TZ1001 responded 200 in 13.8729 ms
+2024-06-11 14:47:17.965 +05:30 [INF] HTTP GET /Department responded 200 in 4.1226 ms
+2024-06-11 14:47:17.971 +05:30 [INF] HTTP GET /Location responded 200 in 9.8005 ms
+2024-06-11 14:47:18.031 +05:30 [INF] HTTP GET /Employee responded 200 in 68.4613 ms
+2024-06-11 14:47:31.236 +05:30 [INF] HTTP GET /Department responded 401 in 0.1690 ms
+2024-06-11 14:47:31.236 +05:30 [INF] HTTP GET /Employee responded 401 in 0.5091 ms
+2024-06-11 14:47:31.239 +05:30 [INF] HTTP GET /Location responded 401 in 0.7797 ms
+2024-06-11 14:48:11.365 +05:30 [INF] HTTP POST /Auth/login responded 200 in 359.8729 ms
+2024-06-11 14:48:11.477 +05:30 [INF] HTTP GET /Location responded 200 in 4.3694 ms
+2024-06-11 14:48:11.477 +05:30 [INF] HTTP GET /Department responded 200 in 5.2178 ms
+2024-06-11 14:48:11.517 +05:30 [INF] HTTP GET /Employee responded 200 in 45.4614 ms
+2024-06-11 14:48:17.689 +05:30 [INF] HTTP GET /Location responded 200 in 2.5311 ms
+2024-06-11 14:48:17.690 +05:30 [INF] HTTP GET /Department responded 200 in 2.8058 ms
+2024-06-11 14:48:17.690 +05:30 [INF] HTTP GET /Project responded 200 in 4.8505 ms
+2024-06-11 14:48:17.690 +05:30 [INF] HTTP GET /Manager responded 200 in 4.4428 ms
+2024-06-11 14:48:17.704 +05:30 [INF] HTTP GET /Employee/TZ1002 responded 200 in 17.0266 ms
+2024-06-11 14:48:28.722 +05:30 [INF] HTTP PUT /Employee/TZ1002 responded 403 in 4.9266 ms
+2024-06-11 14:48:35.239 +05:30 [INF] HTTP GET /Location responded 200 in 3.6808 ms
+2024-06-11 14:48:35.239 +05:30 [INF] HTTP GET /Department responded 200 in 4.0282 ms
+2024-06-11 14:48:35.295 +05:30 [INF] HTTP GET /Employee responded 200 in 59.5185 ms
+2024-06-11 14:48:41.313 +05:30 [INF] HTTP GET /Project responded 200 in 5.4588 ms
+2024-06-11 14:48:41.324 +05:30 [INF] HTTP GET /Location responded 200 in 3.6312 ms
+2024-06-11 14:48:41.324 +05:30 [INF] HTTP GET /Manager responded 200 in 3.8515 ms
+2024-06-11 14:48:41.325 +05:30 [INF] HTTP GET /Department responded 200 in 3.9247 ms
+2024-06-11 14:48:41.338 +05:30 [INF] HTTP GET /Employee/TZ1002 responded 200 in 16.1301 ms
+2024-06-11 14:48:44.577 +05:30 [INF] HTTP GET /Location responded 200 in 4.6828 ms
+2024-06-11 14:48:44.577 +05:30 [INF] HTTP GET /Department responded 200 in 4.6827 ms
+2024-06-11 14:48:44.612 +05:30 [INF] HTTP GET /Employee responded 200 in 39.4914 ms
+2024-06-11 16:03:45.280 +05:30 [INF] HTTP GET /Department responded 200 in 80.2077 ms
+2024-06-11 16:03:45.280 +05:30 [INF] HTTP GET /Location responded 200 in 77.7370 ms
+2024-06-11 16:03:45.310 +05:30 [INF] HTTP GET /Employee responded 200 in 109.4813 ms
+2024-06-11 16:03:48.492 +05:30 [INF] HTTP GET /Location responded 200 in 6.6222 ms
+2024-06-11 16:03:48.494 +05:30 [INF] HTTP GET /Department responded 200 in 8.4740 ms
+2024-06-11 16:03:48.634 +05:30 [INF] HTTP GET /Employee responded 200 in 148.7092 ms
+2024-06-11 16:03:49.667 +05:30 [INF] HTTP GET /Department responded 200 in 2.1138 ms
+2024-06-11 16:03:49.667 +05:30 [INF] HTTP GET /Location responded 200 in 2.0615 ms
+2024-06-11 16:03:49.711 +05:30 [INF] HTTP GET /Employee responded 200 in 46.4791 ms
+2024-06-11 16:03:50.712 +05:30 [INF] HTTP GET /Department responded 200 in 2.6482 ms
+2024-06-11 16:03:50.714 +05:30 [INF] HTTP GET /Location responded 200 in 3.5187 ms
+2024-06-11 16:03:50.740 +05:30 [INF] HTTP GET /Employee responded 200 in 30.4942 ms
+2024-06-11 16:03:51.768 +05:30 [INF] HTTP GET /Department responded 200 in 3.3636 ms
+2024-06-11 16:03:51.768 +05:30 [INF] HTTP GET /Location responded 200 in 3.1350 ms
+2024-06-11 16:03:51.828 +05:30 [INF] HTTP GET /Employee responded 200 in 64.0410 ms
+2024-06-11 16:03:52.987 +05:30 [INF] HTTP GET /Department responded 200 in 3.2881 ms
+2024-06-11 16:03:52.989 +05:30 [INF] HTTP GET /Location responded 200 in 3.7581 ms
+2024-06-11 16:03:53.030 +05:30 [INF] HTTP GET /Employee responded 200 in 47.2310 ms
+2024-06-11 16:04:05.898 +05:30 [INF] HTTP GET /Location responded 200 in 9.0258 ms
+2024-06-11 16:04:05.909 +05:30 [INF] HTTP GET /Project responded 200 in 22.3921 ms
+2024-06-11 16:04:05.911 +05:30 [INF] HTTP GET /Manager responded 200 in 22.4605 ms
+2024-06-11 16:04:05.929 +05:30 [INF] HTTP GET /Department responded 200 in 38.7692 ms
+2024-06-11 16:04:05.940 +05:30 [INF] HTTP GET /Employee/TZ1002 responded 200 in 48.6034 ms
+2024-06-11 16:04:14.734 +05:30 [INF] HTTP PUT /Employee/TZ1002 responded 403 in 2.2328 ms
+2024-06-11 16:04:21.612 +05:30 [INF] HTTP GET /Manager responded 200 in 27.9624 ms
+2024-06-11 16:04:21.620 +05:30 [INF] HTTP GET /Department responded 200 in 32.4588 ms
+2024-06-11 16:04:21.622 +05:30 [INF] HTTP GET /Project responded 200 in 40.5903 ms
+2024-06-11 16:04:21.623 +05:30 [INF] HTTP GET /Location responded 200 in 37.5009 ms
+2024-06-11 16:04:21.661 +05:30 [INF] HTTP GET /Employee/TZ1002 responded 200 in 71.6235 ms
+2024-06-11 16:04:37.830 +05:30 [INF] HTTP GET /Project responded 401 in 0.2764 ms
+2024-06-11 16:04:37.830 +05:30 [INF] HTTP GET /Manager responded 401 in 0.5343 ms
+2024-06-11 16:04:37.831 +05:30 [INF] HTTP GET /Department responded 401 in 0.6674 ms
+2024-06-11 16:04:37.833 +05:30 [INF] HTTP GET /Employee/TZ1002 responded 401 in 2.3030 ms
+2024-06-11 16:04:37.834 +05:30 [INF] HTTP GET /Location responded 401 in 1.5545 ms
+2024-06-11 16:04:44.605 +05:30 [INF] HTTP POST /Auth/login responded 200 in 163.3576 ms
+2024-06-11 16:04:44.680 +05:30 [INF] HTTP GET /Department responded 200 in 5.8567 ms
+2024-06-11 16:04:44.680 +05:30 [INF] HTTP GET /Location responded 200 in 4.9552 ms
+2024-06-11 16:04:44.743 +05:30 [INF] HTTP GET /Employee responded 200 in 68.8302 ms
+2024-06-11 16:04:54.852 +05:30 [INF] HTTP GET /Location responded 200 in 7.5711 ms
+2024-06-11 16:04:54.852 +05:30 [INF] HTTP GET /Project responded 200 in 8.0784 ms
+2024-06-11 16:04:54.854 +05:30 [INF] HTTP GET /Manager responded 200 in 9.5978 ms
+2024-06-11 16:04:54.855 +05:30 [INF] HTTP GET /Department responded 200 in 10.1452 ms
+2024-06-11 16:04:54.877 +05:30 [INF] HTTP GET /Employee/TZ1002 responded 200 in 32.9821 ms
+2024-06-11 16:04:58.566 +05:30 [INF] HTTP PUT /Employee/TZ1002 responded 200 in 32.5351 ms
+2024-06-11 16:05:03.204 +05:30 [INF] HTTP GET /Department responded 200 in 10.0625 ms
+2024-06-11 16:05:03.204 +05:30 [INF] HTTP GET /Location responded 200 in 7.9706 ms
+2024-06-11 16:05:03.310 +05:30 [INF] HTTP GET /Employee responded 200 in 119.9120 ms
+2024-06-11 16:07:00.081 +05:30 [INF] HTTP GET /Location responded 200 in 9.4943 ms
+2024-06-11 16:07:00.082 +05:30 [INF] HTTP GET /Department responded 200 in 10.4134 ms
+2024-06-11 16:07:00.129 +05:30 [INF] HTTP GET /Employee responded 200 in 57.5337 ms
+2024-06-11 16:07:00.131 +05:30 [INF] HTTP GET /Roles responded 200 in 55.3857 ms
+2024-06-11 16:07:05.129 +05:30 [INF] HTTP GET /Department responded 200 in 7.5847 ms
+2024-06-11 16:07:05.130 +05:30 [INF] HTTP GET /Location responded 200 in 7.1928 ms
+2024-06-11 16:07:05.179 +05:30 [INF] HTTP GET /Employee responded 200 in 56.4471 ms
+2024-06-11 16:07:12.435 +05:30 [INF] HTTP POST /Roles responded 200 Error 
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UC_Role_Department'. Cannot insert duplicate key in object 'dbo.Roles'. The duplicate key value is (Intern, 1).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:0cf4d463-8648-4fd3-a3d2-8f2cc9eef6d8
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Infrastructure.Repos.DepartmentsAndRolesRepo.AddRoleAsync(Role newRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\Infrastructure\Repos\DepartmentsAndRolesRepo.cs:line 20
+   at Application.Services.DepartmentsAndRolesServices.AddRoleAsync(AddRoleDTO addRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\Application\Services\DepartmentsAndRolesServices.cs:line 23
+   at WebApi.Controllers.RolesController.AddRole(AddRoleDTO addRole)
+   at lambda_method671(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context)
+
+2024-06-11 16:07:20.613 +05:30 [INF] HTTP GET /Department responded 200 in 2.3282 ms
+2024-06-11 16:07:20.613 +05:30 [INF] HTTP GET /Location responded 200 in 2.3281 ms
+2024-06-11 16:07:20.635 +05:30 [INF] HTTP GET /Employee responded 200 in 23.9786 ms
+2024-06-11 16:07:21.619 +05:30 [INF] HTTP GET /Department responded 200 in 2.9544 ms
+2024-06-11 16:07:21.619 +05:30 [INF] HTTP GET /Location responded 200 in 2.8056 ms
+2024-06-11 16:07:21.646 +05:30 [INF] HTTP GET /Employee responded 200 in 29.3397 ms
+2024-06-11 16:07:23.626 +05:30 [INF] HTTP GET /Department responded 200 in 4.6112 ms
+2024-06-11 16:07:23.626 +05:30 [INF] HTTP GET /Location responded 200 in 3.8577 ms
+2024-06-11 16:07:23.674 +05:30 [INF] HTTP GET /Employee responded 200 in 51.9874 ms
+2024-06-11 16:07:25.634 +05:30 [INF] HTTP GET /Location responded 200 in 4.0315 ms
+2024-06-11 16:07:25.634 +05:30 [INF] HTTP GET /Department responded 200 in 4.4908 ms
+2024-06-11 16:07:25.685 +05:30 [INF] HTTP GET /Employee responded 200 in 55.8008 ms
+2024-06-11 16:07:26.630 +05:30 [INF] HTTP GET /Department responded 200 in 4.5009 ms
+2024-06-11 16:07:26.630 +05:30 [INF] HTTP GET /Location responded 200 in 4.5550 ms
+2024-06-11 16:07:26.671 +05:30 [INF] HTTP GET /Employee responded 200 in 44.9799 ms
+2024-06-11 16:07:27.621 +05:30 [INF] HTTP GET /Location responded 200 in 2.6755 ms
+2024-06-11 16:07:27.621 +05:30 [INF] HTTP GET /Department responded 200 in 2.8837 ms
+2024-06-11 16:07:27.661 +05:30 [INF] HTTP GET /Employee responded 200 in 42.5312 ms
+2024-06-11 16:07:28.597 +05:30 [INF] HTTP GET /Department responded 200 in 10.0126 ms
+2024-06-11 16:07:28.599 +05:30 [INF] HTTP GET /Location responded 200 in 11.5706 ms
+2024-06-11 16:07:28.653 +05:30 [INF] HTTP GET /Employee responded 200 in 62.1609 ms
+2024-06-11 16:07:37.053 +05:30 [INF] HTTP POST /Roles responded 200 Error 
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UC_Role_Department'. Cannot insert duplicate key in object 'dbo.Roles'. The duplicate key value is (Intern, 1).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:0cf4d463-8648-4fd3-a3d2-8f2cc9eef6d8
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Infrastructure.Repos.DepartmentsAndRolesRepo.AddRoleAsync(Role newRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\Infrastructure\Repos\DepartmentsAndRolesRepo.cs:line 20
+   at Application.Services.DepartmentsAndRolesServices.AddRoleAsync(AddRoleDTO addRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\Application\Services\DepartmentsAndRolesServices.cs:line 23
+   at WebApi.Controllers.RolesController.AddRole(AddRoleDTO addRole)
+   at lambda_method671(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context)
+
+2024-06-11 16:09:04.821 +05:30 [INF] HTTP POST /Roles responded 200 Error 
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UC_Role_Department'. Cannot insert duplicate key in object 'dbo.Roles'. The duplicate key value is (Intern, 1).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:0cf4d463-8648-4fd3-a3d2-8f2cc9eef6d8
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Infrastructure.Repos.DepartmentsAndRolesRepo.AddRoleAsync(Role newRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\Infrastructure\Repos\DepartmentsAndRolesRepo.cs:line 20
+   at Application.Services.DepartmentsAndRolesServices.AddRoleAsync(AddRoleDTO addRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\Application\Services\DepartmentsAndRolesServices.cs:line 23
+   at WebApi.Controllers.RolesController.AddRole(AddRoleDTO addRole)
+   at lambda_method671(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context)
+
+2024-06-11 16:12:48.244 +05:30 [INF] HTTP POST /Roles responded 200 Error 
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UC_Role_Department'. Cannot insert duplicate key in object 'dbo.Roles'. The duplicate key value is (Intern, 1).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:84a5a4f7-69bf-48fb-b999-9689ed411a85
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Infrastructure.Repos.DepartmentsAndRolesRepo.AddRoleAsync(Role newRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\Infrastructure\Repos\DepartmentsAndRolesRepo.cs:line 20
+   at Application.Services.DepartmentsAndRolesServices.AddRoleAsync(AddRoleDTO addRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\Application\Services\DepartmentsAndRolesServices.cs:line 23
+   at WebApi.Controllers.RolesController.AddRole(AddRoleDTO addRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\RolesController.cs:line 65
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-06-11 16:18:12.743 +05:30 [INF] HTTP POST /Roles responded 200 Error 
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UC_Role_Department'. Cannot insert duplicate key in object 'dbo.Roles'. The duplicate key value is (Intern, 1).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:768426b8-2f20-41db-9e2d-89bd7ffae71f
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Infrastructure.Repos.DepartmentsAndRolesRepo.AddRoleAsync(Role newRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\Infrastructure\Repos\DepartmentsAndRolesRepo.cs:line 20
+   at Application.Services.DepartmentsAndRolesServices.AddRoleAsync(AddRoleDTO addRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\Application\Services\DepartmentsAndRolesServices.cs:line 23
+   at WebApi.Controllers.RolesController.AddRole(AddRoleDTO addRole) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Controllers\RolesController.cs:line 65
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at WebApi.Middleware.RequestLogging.InvokeAsync(HttpContext context) in C:\PROJ\CODE\10-employee-directory-web-api-Sanjuchilukuri\WebApi\Middleware\RequestLogging.cs:line 21
+
+2024-06-11 16:20:35.328 +05:30 [INF] HTTP GET /Location responded 200 in 514.8334 ms
+2024-06-11 16:20:35.328 +05:30 [INF] HTTP GET /Department responded 200 in 514.8417 ms
+2024-06-11 16:20:35.513 +05:30 [INF] HTTP GET /Employee responded 200 in 700.5629 ms
+2024-06-11 16:21:10.844 +05:30 [INF] HTTP GET /Location responded 200 in 199.1644 ms
+2024-06-11 16:21:10.876 +05:30 [INF] HTTP GET /Department responded 200 in 231.0410 ms
+2024-06-11 16:21:10.965 +05:30 [INF] HTTP GET /Employee responded 200 in 320.5304 ms
+2024-06-11 16:21:12.635 +05:30 [INF] HTTP GET /Location responded 200 in 7.3567 ms
+2024-06-11 16:21:12.635 +05:30 [INF] HTTP GET /Department responded 200 in 7.1489 ms
+2024-06-11 16:21:12.707 +05:30 [INF] HTTP GET /Employee responded 200 in 79.2563 ms
+2024-06-11 16:21:15.638 +05:30 [INF] HTTP GET /Location responded 200 in 5.8034 ms
+2024-06-11 16:21:15.639 +05:30 [INF] HTTP GET /Department responded 200 in 6.2988 ms
+2024-06-11 16:21:15.702 +05:30 [INF] HTTP GET /Employee responded 200 in 68.5530 ms
+2024-06-11 16:21:17.643 +05:30 [INF] HTTP GET /Location responded 200 in 9.0263 ms
+2024-06-11 16:21:17.643 +05:30 [INF] HTTP GET /Department responded 200 in 9.1539 ms
+2024-06-11 16:21:17.698 +05:30 [INF] HTTP GET /Employee responded 200 in 58.0901 ms
+2024-06-11 16:21:18.625 +05:30 [INF] HTTP GET /Location responded 200 in 9.6051 ms
+2024-06-11 16:21:18.628 +05:30 [INF] HTTP GET /Department responded 200 in 13.4714 ms
+2024-06-11 16:21:18.689 +05:30 [INF] HTTP GET /Employee responded 200 in 72.7729 ms
+2024-06-11 16:24:19.623 +05:30 [INF] HTTP GET /Department responded 200 in 10.4194 ms
+2024-06-11 16:24:19.629 +05:30 [INF] HTTP GET /Location responded 200 in 14.7618 ms
+2024-06-11 16:24:19.720 +05:30 [INF] HTTP GET /Employee responded 200 in 107.3183 ms
+2024-06-11 16:24:22.765 +05:30 [INF] HTTP GET /Department responded 200 in 9.7377 ms
+2024-06-11 16:24:22.771 +05:30 [INF] HTTP GET /Location responded 200 in 12.3303 ms
+2024-06-11 16:24:22.824 +05:30 [INF] HTTP GET /Employee responded 200 in 72.2975 ms
+2024-06-11 16:24:22.950 +05:30 [INF] HTTP GET /Roles responded 200 in 187.3264 ms
+2024-06-11 16:36:45.700 +05:30 [INF] HTTP GET /Location responded 200 in 29.1353 ms
+2024-06-11 16:36:45.703 +05:30 [INF] HTTP GET /Department responded 200 in 30.9958 ms
+2024-06-11 16:36:45.753 +05:30 [INF] HTTP GET /Roles responded 200 in 83.9557 ms
+2024-06-11 16:36:45.776 +05:30 [INF] HTTP GET /Employee responded 200 in 105.4661 ms
+2024-06-11 16:36:53.905 +05:30 [INF] HTTP GET /Department responded 200 in 6.9677 ms
+2024-06-11 16:36:53.909 +05:30 [INF] HTTP GET /Location responded 200 in 4.8954 ms
+2024-06-11 16:36:53.950 +05:30 [INF] HTTP GET /Employee responded 200 in 52.7835 ms
+2024-06-11 16:36:58.795 +05:30 [INF] HTTP GET /Department responded 200 in 9.1589 ms
+2024-06-11 16:36:58.795 +05:30 [INF] HTTP GET /Location responded 200 in 9.2094 ms
+2024-06-11 16:36:58.828 +05:30 [INF] HTTP GET /Manager responded 200 in 37.5050 ms
+2024-06-11 16:36:58.828 +05:30 [INF] HTTP GET /Project responded 200 in 42.3827 ms
+2024-06-11 16:36:58.926 +05:30 [INF] HTTP GET /Employee/TZ1001 responded 200 in 137.3114 ms
+2024-06-11 16:37:01.090 +05:30 [INF] HTTP GET /Department responded 200 in 7.1084 ms
+2024-06-11 16:37:01.090 +05:30 [INF] HTTP GET /Location responded 200 in 8.0330 ms
+2024-06-11 16:37:01.140 +05:30 [INF] HTTP GET /Employee responded 200 in 57.4214 ms
+2024-06-11 16:38:50.664 +05:30 [INF] HTTP GET /Department responded 200 in 6.5012 ms
+2024-06-11 16:38:50.674 +05:30 [INF] HTTP GET /Location responded 200 in 4.3258 ms
+2024-06-11 16:38:50.723 +05:30 [INF] HTTP GET /Employee responded 200 in 65.6669 ms
+2024-06-11 16:38:54.793 +05:30 [INF] HTTP GET /Location responded 200 in 21.5041 ms
+2024-06-11 16:38:54.800 +05:30 [INF] HTTP GET /Department responded 200 in 28.3310 ms
+2024-06-11 16:38:54.888 +05:30 [INF] HTTP GET /Employee responded 200 in 116.1682 ms
+2024-06-11 16:39:58.657 +05:30 [INF] HTTP GET /Location responded 200 in 5.4409 ms
+2024-06-11 16:39:58.657 +05:30 [INF] HTTP GET /Department responded 200 in 6.1298 ms
+2024-06-11 16:39:58.710 +05:30 [INF] HTTP GET /Employee responded 200 in 61.1686 ms
+2024-06-11 16:40:09.652 +05:30 [INF] HTTP GET /Location responded 200 in 8.7111 ms
+2024-06-11 16:40:09.652 +05:30 [INF] HTTP GET /Department responded 200 in 8.7670 ms
+2024-06-11 16:40:09.727 +05:30 [INF] HTTP GET /Employee responded 200 in 84.2727 ms
+2024-06-11 16:40:12.654 +05:30 [INF] HTTP GET /Location responded 200 in 3.8995 ms
+2024-06-11 16:40:12.654 +05:30 [INF] HTTP GET /Department responded 200 in 4.0830 ms
+2024-06-11 16:40:12.693 +05:30 [INF] HTTP GET /Employee responded 200 in 43.0731 ms
+2024-06-11 16:40:14.709 +05:30 [INF] HTTP GET /Department responded 200 in 2.7374 ms
+2024-06-11 16:40:14.710 +05:30 [INF] HTTP GET /Location responded 200 in 2.7283 ms
+2024-06-11 16:40:14.736 +05:30 [INF] HTTP GET /Employee responded 200 in 29.9705 ms
+2024-06-11 16:40:16.644 +05:30 [INF] HTTP GET /Location responded 200 in 4.0103 ms
+2024-06-11 16:40:16.644 +05:30 [INF] HTTP GET /Department responded 200 in 4.0264 ms
+2024-06-11 16:40:16.705 +05:30 [INF] HTTP GET /Employee responded 200 in 65.1812 ms
+2024-06-11 16:40:28.647 +05:30 [INF] HTTP GET /Location responded 200 in 4.5987 ms
+2024-06-11 16:40:28.647 +05:30 [INF] HTTP GET /Department responded 200 in 4.7471 ms
+2024-06-11 16:40:28.717 +05:30 [INF] HTTP GET /Employee responded 200 in 75.8152 ms
+2024-06-11 16:40:41.646 +05:30 [INF] HTTP GET /Department responded 200 in 4.1624 ms
+2024-06-11 16:40:41.646 +05:30 [INF] HTTP GET /Location responded 200 in 3.4471 ms
+2024-06-11 16:40:41.675 +05:30 [INF] HTTP GET /Employee responded 200 in 42.6239 ms
+2024-06-11 16:40:43.646 +05:30 [INF] HTTP GET /Location responded 200 in 4.2423 ms
+2024-06-11 16:40:43.646 +05:30 [INF] HTTP GET /Department responded 200 in 4.4951 ms
+2024-06-11 16:40:43.682 +05:30 [INF] HTTP GET /Employee responded 200 in 40.7917 ms
+2024-06-11 16:40:46.663 +05:30 [INF] HTTP GET /Department responded 200 in 8.5742 ms
+2024-06-11 16:40:46.664 +05:30 [INF] HTTP GET /Location responded 200 in 8.0321 ms
+2024-06-11 16:40:46.750 +05:30 [INF] HTTP GET /Employee responded 200 in 98.3257 ms
+2024-06-11 16:40:48.642 +05:30 [INF] HTTP GET /Department responded 200 in 3.9735 ms
+2024-06-11 16:40:48.642 +05:30 [INF] HTTP GET /Location responded 200 in 3.3788 ms
+2024-06-11 16:40:48.705 +05:30 [INF] HTTP GET /Employee responded 200 in 67.0027 ms
+2024-06-11 16:40:54.664 +05:30 [INF] HTTP GET /Department responded 200 in 11.2514 ms
+2024-06-11 16:40:54.664 +05:30 [INF] HTTP GET /Location responded 200 in 9.7785 ms
+2024-06-11 16:40:54.755 +05:30 [INF] HTTP GET /Employee responded 200 in 105.8053 ms
+2024-06-11 16:41:07.412 +05:30 [INF] HTTP GET /Department responded 200 in 9.5659 ms
+2024-06-11 16:41:07.420 +05:30 [INF] HTTP GET /Location responded 200 in 15.4715 ms
+2024-06-11 16:41:07.521 +05:30 [INF] HTTP GET /Employee responded 200 in 119.5222 ms
